@@ -1,0 +1,1186 @@
+{
+    "$schema": "file:/C:/Users/tasna/Documents/xml/2.jschema",
+"characters":[
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Josephine Gillan" ] ],
+            "name": "Marei",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Rhodri Hosking" ] ],
+            "name": "Mycah",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Anthony Morris" ] ],
+            "name": "The Tickler",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Burn Gorman" ] ],
+            "name": "Karl",
+            "tvSeries": [ [ "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Aidan Gillen" ] ],
+            "name": "Petyr Baelish",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ramon Tikaram" ] ],
+            "name": "Prendahl na Ghezn",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ron Donachie" ] ],
+            "name": "Rodrik Cassel",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Philip McGinley" ] ],
+            "name": "Anguy",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tom Brooke" ] ],
+            "name": "Lothar Frey",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ian Whyte" ] ],
+            "name": "Wun Weg Wun Dar Wun",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Indira Varma" ] ],
+            "name": "Ellaria Sand",
+            "tvSeries": [ [ "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Art Parkinson" ] ],
+            "name": "Rickon Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Callum Wharry", "Dean-Charles Chapman" ] ],
+            "name": "Tommen Baratheon",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Steven Blount", "John Stahl" ] ],
+            "name": "Rickard Karstark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "John Bradley-West" ] ],
+            "name": "Samwell Tarly",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jerome Flynn" ] ],
+            "name": "Bronn",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Sarita Piotrowski" ] ],
+            "name": "Jhiqui",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Sean Bean", "Sebastian Croft", "Robert Aramayo" ] ],
+            "name": "Eddard Stark",
+            "tvSeries": [ [ "Season 1", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Alexander Siddig" ] ],
+            "name": "Doran Martell",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ian Hanmore" ] ],
+            "name": "Pyat Pree",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jack Gleeson" ] ],
+            "name": "Joffrey Baratheon",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Eros Vlahos" ] ],
+            "name": "Lommy",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Nathalie Emmanuel" ] ],
+            "name": "Missandei",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Paul Kaye" ] ],
+            "name": "Thoros of Myr",
+            "tvSeries": [ [ "Season 3", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jamie Sives" ] ],
+            "name": "Jory Cassel",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tim McInnerny" ] ],
+            "name": "Robett Glover",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Eddie Eyre" ] ],
+            "name": "Gerold Hightower",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Keisha Castle-Hughes" ] ],
+            "name": "Obara Sand",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Fintan McKeown" ] ],
+            "name": "Amory Lorch",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "David Michael Scott", "Richard Dormer" ] ],
+            "name": "Beric Dondarrion",
+            "tvSeries": [ [ "Season 1", "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Rupert Vansittart" ] ],
+            "name": "Yohn Royce",
+            "tvSeries": [ [ "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Joel Fry" ] ],
+            "name": "Hizdahr zo Loraq",
+            "tvSeries": [ [ "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Andy Kellegher" ] ],
+            "name": "Polliver",
+            "tvSeries": [ [ "Season 2", "Season 4" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Alexandra Dowling" ] ],
+            "name": "Roslin Frey",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Elizabeth Webster" ] ],
+            "name": "Walda Frey",
+            "tvSeries": [ [ "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "John Standing" ] ],
+            "name": "Jon Arryn",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Dominic Carter" ] ],
+            "name": "Janos Slynt",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ben Hawkey" ] ],
+            "name": "Hot Pie",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Mia Soteriou" ] ],
+            "name": "Mirri Maz Duur",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Addy" ] ],
+            "name": "Robert I Baratheon",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Joseph Mawle", "Matteo Elezi" ] ],
+            "name": "Benjen Stark",
+            "tvSeries": [ [ "Season 1", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Wayne Foskett" ] ],
+            "name": "Rickard Stark",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Gary Oliver" ] ],
+            "name": "Ternesio Terys",
+            "tvSeries": [ [ "Season 4" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Rosabell Laurenti Sellers" ] ],
+            "name": "Tyene Sand",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Clive Russell" ] ],
+            "name": "Brynden Tully",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Kerry Ingram" ] ],
+            "name": "Shireen Baratheon",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Kristofer Hivju" ] ],
+            "name": "Tormund",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ciarán Hinds" ] ],
+            "name": "Mance Rayder",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Deon Lee-Williams" ] ],
+            "name": "Iggo",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Rebecca Benson" ] ],
+            "name": "Talla Tarly",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ian McElhinney" ] ],
+            "name": "Barristan Selmy",
+            "tvSeries": [ [ "Season 1", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Conleth Hill" ] ],
+            "name": "Varys",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Roger Ashton-Griffiths" ] ],
+            "name": "Mace Tyrell",
+            "tvSeries": [ [ "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Lewis Jones" ] ],
+            "name": "Shagga son of Dolf",
+            "tvSeries": [ [  ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Joe Dempsie" ] ],
+            "name": "Gendry",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Thomas Brodie-Sangster" ] ],
+            "name": "Jojen Reed",
+            "tvSeries": [ [ "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "David Coakley" ] ],
+            "name": "Drennan",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Michelle Fairley" ] ],
+            "name": "Catelyn Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Kerr Logan" ] ],
+            "name": "Matthos Seaworth",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Boyd Rankin" ] ],
+            "name": "Mikken",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Roy Dotrice" ] ],
+            "name": "Hallyne",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Kate Dickie" ] ],
+            "name": "Lysa Arryn",
+            "tvSeries": [ [ "Season 1", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ed Skrein", "Michiel Huisman" ] ],
+            "name": "Daario Naharis",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Roxanne McKee" ] ],
+            "name": "Doreah",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Susie Kelly" ] ],
+            "name": "Masha Heddle",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Sarah MacKeever", "Tara Fitzgerald" ] ],
+            "name": "Selyse Florent",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Hannah Murray" ] ],
+            "name": "Gilly",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jamie Michie" ] ],
+            "name": "Walton",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Julian Glover" ] ],
+            "name": "Pycelle",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Charles Dance" ] ],
+            "name": "Tywin Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Coney" ] ],
+            "name": "Galbart Glover",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Iwan Rheon" ] ],
+            "name": "Ramsay Snow",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Alfie Allen" ] ],
+            "name": "Theon Greyjoy",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Lena Headey" ] ],
+            "name": "Cersei Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Francis Magee" ] ],
+            "name": "Yoren",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Dean-Charles Chapman" ] ],
+            "name": "Martyn Lannister",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Patrick Malahide" ] ],
+            "name": "Balon Greyjoy",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Emun Elliott." ] ],
+            "name": "Marillion",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Conan Stevens", "Ian Whyte", "Hafþór Júlíus Björnsson" ] ],
+            "name": "Gregor Clegane",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Nonso Anozie" ] ],
+            "name": "Xaro Xhoan Daxos",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Gemma Whelan" ] ],
+            "name": "Asha Greyjoy",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Gethin Anthony" ] ],
+            "name": "Renly Baratheon",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Luke McEwan" ] ],
+            "name": "Rast",
+            "tvSeries": [ [ "Season 1", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Simon Armstrong" ] ],
+            "name": "Qhorin",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "DeObia Oparei" ] ],
+            "name": "Areo Hotah",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Brendan McCormack" ] ],
+            "name": "Vardis Egen",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Iain Glen" ] ],
+            "name": "Jorah Mormont",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Leo Woodruff" ] ],
+            "name": "Howland Reed",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Andrew Wilde" ] ],
+            "name": "Tobho Mott",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tom Wlaschiha", "Patrick O'Kane" ] ],
+            "name": "Jaqen H'ghar",
+            "tvSeries": [ [ "Season 2", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Wilko Johnson" ] ],
+            "name": "Ilyn Payne",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Colin Carnegie" ] ],
+            "name": "Stevron Frey",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ian Gelder" ] ],
+            "name": "Kevan Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Susan Brown" ] ],
+            "name": "Mordane",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tony Way" ] ],
+            "name": "Dontos Hollard",
+            "tvSeries": [ [ "Season 2", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tobias Winter" ] ],
+            "name": "Timett son of Timett",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Margaret John", "Annette Tierney" ] ],
+            "name": "Nan",
+            "tvSeries": [ [ "Season 1", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Oddie Braddell" ] ],
+            "name": "Wendel Manderly",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Gerry O'Brien" ] ],
+            "name": "Jonos Bracken",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tyrone McElhennon" ] ],
+            "name": "Torrhen Karstark",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Diana Rigg" ] ],
+            "name": "Olenna Redwyne",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Stephen Dillane" ] ],
+            "name": "Stannis Baratheon",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Kelly Long" ] ],
+            "name": "Joyeuse Erenford",
+            "tvSeries": [ [ "Season 1", "Season 3" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Jodhi May" ] ],
+            "name": "Maggy",
+            "tvSeries": [ [ "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Forbes KB" ] ],
+            "name": "Lorren",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "James Cosmo" ] ],
+            "name": "Jeor Mormont",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Anton Lesser" ] ],
+            "name": "Qyburn",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "James Faulkner" ] ],
+            "name": "Randyll Tarly",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ben Crompton" ] ],
+            "name": "Eddison Tollet",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Jessica Henwick" ] ],
+            "name": "Nymeria Sand",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Liam Cunningham" ] ],
+            "name": "Davos Seaworth",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Samantha Spiro" ] ],
+            "name": "Melessa Florent",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "B.J. Hogg" ] ],
+            "name": "Addam Marbrand",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Kit Harington" ] ],
+            "name": "Jon Snow",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Daniel Portman" ] ],
+            "name": "Podrick Payne",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Oliver Ford" ] ],
+            "name": "Cressen",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Lino Facioli" ] ],
+            "name": "Robert Arryn",
+            "tvSeries": [ [ "Season 1", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "James Doran" ] ],
+            "name": "Mandon Moore",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Colin Azzopardi" ] ],
+            "name": "Caleotte",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Gwendoline Christie" ] ],
+            "name": "Brienne of Tarth",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Dermot Keaney" ] ],
+            "name": "Gared",
+            "tvSeries": [ [  ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Peter Balance" ] ],
+            "name": "Farlen",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Michael McElhatton" ] ],
+            "name": "Roose Bolton",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Stephen Don" ] ],
+            "name": "Stiv",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mackenzie Crook" ] ],
+            "name": "Orell",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Elizabeth Barrett" ] ],
+            "name": "Maege Mormont",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ciaran Birmingham" ] ],
+            "name": "Mord",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Cordelia Hill" ] ],
+            "name": "Lyanna Stark",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Roger Allam" ] ],
+            "name": "Illyrio Mopatis",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Struan Rodger", "Max Von Sydow" ] ],
+            "name": "Brynden Rivers",
+            "tvSeries": [ [ "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Joe Naufahu" ] ],
+            "name": "Moro",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Gatiss" ] ],
+            "name": "Tycho Nestoris",
+            "tvSeries": [ [ "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Richard Madden" ] ],
+            "name": "Robb Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Maisie Williams" ] ],
+            "name": "Arya Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Tobias Menzies" ] ],
+            "name": "Edmure Tully",
+            "tvSeries": [ [ "Season 3", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Amrita Acharia" ] ],
+            "name": "Irri",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Aimee Richardson", "Nell Tiger Free" ] ],
+            "name": "Myrcella Baratheon",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Carice van Houten" ] ],
+            "name": "Melisandre",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Dan Hildebrand" ] ],
+            "name": "Kraznys mo Nakloz",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Miltos Yeromelou" ] ],
+            "name": "Syrio Forel",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ian Beattie" ] ],
+            "name": "Meryn Trant",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [
+                [ "Clive Mantle" ],
+                [ "Dean Jagger" ]
+            ],
+            "name": "Jon Umber",
+            "tvSeries": [
+                [ "Season 1" ],
+                [ "Season 6" ]
+            ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jozef Altin" ] ],
+            "name": "Pypar",
+            "tvSeries": [ [ "Season 1", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Yuri Kolokolnikov" ] ],
+            "name": "Styr",
+            "tvSeries": [ [ "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Bryan McCaugherty" ] ],
+            "name": "Ryger Rivers",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Sibel Kekilli" ] ],
+            "name": "Shae",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Natalie Dormer" ] ],
+            "name": "Margaery Tyrell",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Unknown extra", "Gerard Jordan" ] ],
+            "name": "Biter",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Rory McCann" ] ],
+            "name": "Sandor Clegane",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Luke Roberts" ] ],
+            "name": "Arthur Dayne",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Peter Dinklage" ] ],
+            "name": "Tyrion Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Laura Pradelska" ] ],
+            "name": "Quaithe",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Sophie Turner" ] ],
+            "name": "Sansa Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "David Rintoul" ] ],
+            "name": "Aerys II",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Owen Teale" ] ],
+            "name": "Alliser Thorne",
+            "tvSeries": [ [ "Season 1", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Michael Feast" ] ],
+            "name": "Aeron Greyjoy",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ralph Ineson" ] ],
+            "name": "Dagmer",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Bella Ramsey" ] ],
+            "name": "Lyanna Mormont",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Rose Leslie" ] ],
+            "name": "Ygritte",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Gordon Mahon" ] ],
+            "name": "Imry Florent",
+            "tvSeries": [ [ "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Elyes Gabel" ] ],
+            "name": "Rakharo",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Lucian Msamati" ] ],
+            "name": "Salladhor Saan",
+            "tvSeries": [ [ "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Nikolaj Coster-Waldau" ] ],
+            "name": "Jaime Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Chuku Modu" ] ],
+            "name": "Aggo",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [
+                [ "Tim Plester" ],
+                [ "David Bradley" ]
+            ],
+            "name": "Walder Frey",
+            "tvSeries": [
+                [ "Season 3", "Season 6" ],
+                [ "Season 1", "Season 3", "Season 6" ]
+            ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Toby Sebastian" ] ],
+            "name": "Trystane Martell",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Emilia Clarke" ] ],
+            "name": "Daenerys Targaryen",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Ivailo Dimitrov" ] ],
+            "name": "Mago",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Harry Lloyd" ] ],
+            "name": "Viserys Targaryen",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Paola Dionisotti" ] ],
+            "name": "Anya Waynwood",
+            "tvSeries": [ [ "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jacob Anderson" ] ],
+            "name": "Grey Worm",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Pedro Pascal" ] ],
+            "name": "Oberyn Nymeros Martell",
+            "tvSeries": [ [ "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jonathan Pryce" ] ],
+            "name": "High Septon",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Killeen" ] ],
+            "name": "Mero",
+            "tvSeries": [ [ "Season 3" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Ellie Kendrick" ] ],
+            "name": "Meera Reed",
+            "tvSeries": [ [ "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Dar Salim" ] ],
+            "name": "Qotho",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Robert Pugh" ] ],
+            "name": "Craster",
+            "tvSeries": [ [ "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Isaac Hempstead-Wright" ] ],
+            "name": "Brandon Stark",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Natalia Tena" ] ],
+            "name": "Osha",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Bronson Webb" ] ],
+            "name": "Will",
+            "tvSeries": [ [  ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Finn Jones" ] ],
+            "name": "Loras Tyrell",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jason Momoa" ] ],
+            "name": "Drogo",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Female",
+            "playedBy": [ [ "Hannah Waddingham" ] ],
+            "name": "Unella",
+            "tvSeries": [ [ "Season 5", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Peter Vaughan" ] ],
+            "name": "Aemon Targaryen",
+            "tvSeries": [ [ "Season 1", "Season 3", "Season 4", "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Michael Condron" ] ],
+            "name": "Bowen Marsh",
+            "tvSeries": [ [ "Season 5" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Edward Dogliani" ] ],
+            "name": "Lord of Bones",
+            "tvSeries": [ [ "Season 2", "Season 3" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Unknown extra", "Andy Beckwith" ] ],
+            "name": "Rorge",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Mark Stanley" ] ],
+            "name": "Grenn",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Rob Ostlere" ] ],
+            "name": "Waymar Royce",
+            "tvSeries": [ [ "Season 1" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Freddie Stroma" ] ],
+            "name": "Dickon Tarly",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Kristian Nairn" ] ],
+            "name": "Walder",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 3", "Season 4", "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Brian Fortune" ] ],
+            "name": "Othell Yarwyck",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Jóhannes Haukur Jóhannesson" ] ],
+            "name": "Lem",
+            "tvSeries": [ [ "Season 6" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Donald Sumpter" ] ],
+            "name": "Luwin",
+            "tvSeries": [ [ "Season 1", "Season 2" ] ]
+        },
+        {
+            "gender": "Male",
+            "playedBy": [ [ "Eugene Simon" ] ],
+            "name": "Lancel Lannister",
+            "tvSeries": [ [ "Season 1", "Season 2", "Season 5" ] ]
+        }
+    ] }

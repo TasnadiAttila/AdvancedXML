@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Game of Thrones Characters Schema",
+  "type": "object",
+  "properties": {
+    "characters": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["gender", "playedBy", "name", "tvSeries"],
+        "properties": {
+          "gender": {
+            "type": "string",
+            "enum": ["Male", "Female"]
+          },
+          "playedBy": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "minItems": 1
+          },
+          "name": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tvSeries": {
+            "type": "array",
+            "items": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            },
+            "minItems": 1
+          }
+        }
+      }
+    }
+  },
+  "required": ["characters"]
+}

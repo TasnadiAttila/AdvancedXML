@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+    <house>
+        <name>House Algood</name>
+        <region>The Westerlands</region>
+        <words/>
+    </house>
+    <house>
+        <name>House Allyrion of Godsgrace</name>
+        <region>Dorne</region>
+        <words>No Foe May Pass</words>
+    </house>
+    <house>
+        <name>House Amber</name>
+        <region>The North</region>
+        <words/>
+    </house>
+    <house>
+        <name>House Ambrose</name>
+        <region>The Reach</region>
+        <words>Never Resting</words>
+    </house>
+    <house>
+        <name>House Appleton of Appleton</name>
+        <region>The Reach</region>
+        <words/>
+    </house>
+    <house>
+        <name>House Arryn of Gulltown</name>
+        <region>The Vale</region>
+        <words/>
+    </house>
+    <house>
+        <name>House Arryn of the Eyrie</name>
+        <region>The Vale</region>
+        <words>As High as Honor</words>
+    </house>
+    <house>
+        <name>House Ashford of Ashford</name>
+        <region>The Reach</region>
+        <words>Our Sun Shines Bright</words>
+    </house>
+    <house>
+        <name>House Ashwood</name>
+        <region>The North</region>
+        <words/>
+    </house>
+    <house>
+        <name>House Baelish of Harrenhal</name>
+        <region>The Riverlands</region>
+        <words/>
+    </house>
+</houses>
