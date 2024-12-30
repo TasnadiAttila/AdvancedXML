@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<houses>
+<houses xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="1.xsd">
     <house>
         <name>House Algood</name>
         <region>The Westerlands</region>

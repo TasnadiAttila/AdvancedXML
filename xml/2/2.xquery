@@ -1,23 +1,12 @@
 xquery version "3.1";
 
+import module namespace char = "http://example.com/characters" at "../characters.xquery";
 
 declare namespace output = "http://www.w3.org/2010/xslt-xquery-serialization";
 declare option output:method "json";
 declare option output:indent "yes";
 
-
-declare function local:get-characters($page as xs:integer) as array(*) {
-  let $url := concat("https://anapioficeandfire.com/api/characters?page=", $page)
-  let $response := json-doc($url)
-  return 
-    if (count($response?*) > 0) 
-    then 
-      array:join(($response, local:get-characters($page + 1))) 
-    else 
-      array {}
-};
-
-let $all-characters := local:get-characters(1)
+let $all-characters := char:get-characters(1)
 
 let $filtered-characters := 
   array {
@@ -38,4 +27,5 @@ let $result :=
   map {
     "characters": $filtered-characters
   }
+
 return $result

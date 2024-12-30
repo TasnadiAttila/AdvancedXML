@@ -1,6 +1,4 @@
-{
-    "$schema": "file:/C:/Users/tasna/Documents/xml/2.jschema",
-"characters":[
+{ "characters":[
         {
             "gender": "Female",
             "playedBy": [ [ "Josephine Gillan" ] ],
