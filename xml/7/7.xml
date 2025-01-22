@@ -1,0 +1,6963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="7.xsd">
+    <character>
+        <name>Balon Greyjoy</name>
+        <titles>
+            <title>Iron King</title>
+            <title>King of the Isles and the North</title>
+            <title>King of Salt and Rock</title>
+            <title>Son of the Sea Wind</title>
+            <title>Lord Reaper of Pyke</title>
+            <title>The Greyjoy</title>
+            <title>Captain of the Great Kraken</title>
+        </titles>
+    </character>
+    <character>
+        <name>Chayle</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gillam</name>
+        <titles>
+            <title>Brother</title>
+        </titles>
+    </character>
+    <character>
+        <name>High Septon</name>
+        <titles>
+            <title>High Septon</title>
+            <title>His High Holiness</title>
+            <title>Father of the Faithful</title>
+            <title>Voice of the Seven on Earth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Margaery Tyrell</name>
+        <titles>
+            <title>Queen of the Seven Kingdoms</title>
+        </titles>
+    </character>
+    <character>
+        <name>Melicent</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Meribald</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moelle</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mordane</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nysterica</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ollidor</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Osmynd</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raynard</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Scolera</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Torbert</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tywin Lannister</name>
+        <titles>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+            <title>Hand of the King</title>
+            <title>Savior of the City (of King's Landing)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Unella</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Abelar Hightower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Addam Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Addam Marbrand</name>
+        <titles>
+            <title>Ser</title>
+            <title>Commander of the City Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Addam Velaryon</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Addison Hill</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon I</name>
+        <titles>
+            <title>King of All Westeros</title>
+            <title>Shield of His People</title>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+            <title>Lord of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon II</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon III</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon IV</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegon V</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aegor Rivers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aelinor Penrose</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aemma Arryn</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aemon Estermont</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aemon Rivers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aemon Targaryen</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aemond Targaryen</name>
+        <titles>
+            <title>Prince</title>
+            <title>Protector of the Realm</title>
+            <title>Prince Regent</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aenys Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aenys I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aerion Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aerion Targaryen</name>
+        <titles>
+            <title>Lord of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aeron Greyjoy</name>
+        <titles>
+            <title>Priest of the Drowned God</title>
+            <title>Captain of the Golden Storm (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aerys I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar, and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aerys II</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aglantine</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aladale Wynch</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alannys Harlaw</name>
+        <titles>
+            <title>Queen of the Iron Islands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Albar Royce</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alekyne Florent</name>
+        <titles>
+            <title>Lord of Brightwater (attainted)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alerie Hightower</name>
+        <titles>
+            <title>Lady of Highgarden</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alesander Staedmon</name>
+        <titles>
+            <title>Lord of Broad Arch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alester Florent</name>
+        <titles>
+            <title>Lord of Brightwater</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alester Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alicent Hightower</name>
+        <titles>
+            <title>Lady</title>
+            <title>Queen</title>
+            <title>Dowager Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alliser Thorne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyce Graceford</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Cockshaw</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Connington</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Estermont</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Hunt</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Stackspear</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Tarbeck</name>
+        <titles>
+            <title>Lord of Tarbeck Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyn Velaryon</name>
+        <titles>
+            <title>Lord of the Tides</title>
+            <title>Master of Driftmark</title>
+            <title>Admiral</title>
+            <title>Master of ships</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alys Karstark</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alysanne Bulwer</name>
+        <titles>
+            <title>Lady of Blackcrown</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alysanne Farman</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alysanne Lefford</name>
+        <titles>
+            <title>Lady of Golden Tooth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alysanne Targaryen</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyssa Blackwood</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyssa Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alyssa Velaryon</name>
+        <titles>
+            <title>Lady</title>
+            <title>Queen</title>
+            <title>Dowager Queen</title>
+            <title>Queen Regent</title>
+            <title>Lady of Storm's End</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ambrose Butterwell</name>
+        <titles>
+            <title>Lord of Whitewalls</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Amerei Frey</name>
+        <titles>
+            <title>Lady of Darry</title>
+        </titles>
+    </character>
+    <character>
+        <name>Amory Lorch</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andar Royce</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Anders Yronwood</name>
+        <titles>
+            <title>Lord of Yronwood</title>
+            <title>The Bloodroyal</title>
+            <title>Warden of the Stone Way</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andrew Estermont</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andrey Charlton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andros Brax</name>
+        <titles>
+            <title>Lord of Hornvale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Androw Ashford</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Annara Farring</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Antario Jast</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Anya Waynwood</name>
+        <titles>
+            <title>Lady of Ironoaks</title>
+        </titles>
+    </character>
+    <character>
+        <name>Archibald Yronwood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ardrian Celtigar</name>
+        <titles>
+            <title>Lord of Claw Isle</title>
+        </titles>
+    </character>
+    <character>
+        <name>Argella Durrandon</name>
+        <titles>
+            <title>Princess</title>
+            <title>Storm Queen</title>
+            <title>Lady of Storm's End</title>
+        </titles>
+    </character>
+    <character>
+        <name>Argilac Durrandon</name>
+        <titles>
+            <title>Storm King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arianne Martell</name>
+        <titles>
+            <title>Princess of Dorne</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arlan of Pennytree</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Armond Caswell</name>
+        <titles>
+            <title>Lord of Bitterbridge</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arnolf Karstark</name>
+        <titles>
+            <title>Castellan of Karhold</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aron Santagar</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms of the Red Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arra Norrey</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arrec Durrandon</name>
+        <titles>
+            <title>Storm King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arron Qorgyle</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arstan Selmy</name>
+        <titles>
+            <title>Lord of Harvest Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arthur Ambrose</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arthur Dayne</name>
+        <titles>
+            <title>Ser</title>
+            <title>Sword of the Morning</title>
+        </titles>
+    </character>
+    <character>
+        <name>Artys I Arryn</name>
+        <titles>
+            <title>King of Mountain and Vale</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arwood Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arwyn Oakheart</name>
+        <titles>
+            <title>Lady of Old Oak</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arya Stark</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arys Oakheart</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Asha Greyjoy</name>
+        <titles>
+            <title>Princess</title>
+            <title>Captain of the Black Wind</title>
+            <title>Conqueror of Deepwood Motte</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aubrey Ambrose</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Axell Florent</name>
+        <titles>
+            <title>Ser</title>
+            <title>Hand of the Queen (self-styled)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baela Targaryen</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelon Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelon Targaryen</name>
+        <titles>
+            <title>Prince of Dragonstone</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelor Blacktyde</name>
+        <titles>
+            <title>Lord of Blacktyde</title>
+            <title>Captain of the Nightflyer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelor Hightower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelor I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Baelor Targaryen</name>
+        <titles>
+            <title>Prince of Dragonstone</title>
+            <title>Protector of the Realm</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Balman Byrch</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Balon Swann</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Barbrey Dustin</name>
+        <titles>
+            <title>Lady of Barrowton</title>
+        </titles>
+    </character>
+    <character>
+        <name>Barre</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Barristan Selmy</name>
+        <titles>
+            <title>Ser</title>
+            <title>Hand of the Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Barth</name>
+        <titles>
+            <title>Septon</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Barthogan Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bayard Norcross</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ben Bushy</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ben Plumm</name>
+        <titles>
+            <title>Commander of the Second Sons</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benedar Belmore</name>
+        <titles>
+            <title>Lord of Strongsong</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benedict Broom</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms at Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benedict I Justman</name>
+        <titles>
+            <title>Ser</title>
+            <title>King of the Trident</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benfrey Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benjen Stark</name>
+        <titles>
+            <title>First Ranger</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benjen Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benjen Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bennard Brune</name>
+        <titles>
+            <title>Ser</title>
+            <title>The Knight of Brownhollow</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bennis</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Beric Dondarrion</name>
+        <titles>
+            <title>Lord of Blackhaven</title>
+        </titles>
+    </character>
+    <character>
+        <name>Beron Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bertram Beesbury</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Betha Blackwood</name>
+        <titles>
+            <title>Lady</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bethany Bolton</name>
+        <titles>
+            <title>Lady of the Dreadfort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bethany Redwyne</name>
+        <titles>
+            <title>Lady of Goldengrove</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bethany Rosby</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bonifer Hasty</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Boremund Harlaw</name>
+        <titles>
+            <title>Master of Harridan Hill</title>
+        </titles>
+    </character>
+    <character>
+        <name>Boros Blount</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bowen Marsh</name>
+        <titles>
+            <title>Lord Steward</title>
+            <title>First Steward</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Norrey</name>
+        <titles>
+            <title>The Norrey</title>
+            <title>Lord Norrey</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>Prince of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>King of Winter</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brandon Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Branston Cuy</name>
+        <titles>
+            <title>Lord of Sunflower Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bronn</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Protector of Stokeworth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bryan Fossoway</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bryce Caron</name>
+        <titles>
+            <title>Lord of Nightsong</title>
+            <title>Lord of the Marches</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bryen Caron</name>
+        <titles>
+            <title>Lord of the Marches</title>
+            <title>Lord of Nightsong</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brynden Tully</name>
+        <titles>
+            <title>Ser</title>
+            <title>Warden of the Southern Marches</title>
+            <title>Knight of the Gate (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Buford Bulwer</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Burton Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Casper Wylde</name>
+        <titles>
+            <title>Lord of the Rain House</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cassella Vaith</name>
+        <titles>
+            <title>Lady of Vaith</title>
+        </titles>
+    </character>
+    <character>
+        <name>Catelyn Stark</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cedric Payne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cerissa Brax</name>
+        <titles>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cersei Lannister</name>
+        <titles>
+            <title>Light of the West</title>
+            <title>Queen Dowager</title>
+            <title>Protector of the Realm</title>
+            <title>Lady of Casterly Rock</title>
+            <title>Queen Regent</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ceryse Hightower</name>
+        <titles>
+            <title>Lady</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clarence Charlton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clarence Crabb</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clarent Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clayton Suggs</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clement Crabb</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clement Piper</name>
+        <titles>
+            <title>Lord of Pinkmaiden</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cletus Yronwood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cley Cerwyn</name>
+        <titles>
+            <title>Lord of Cerwyn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cleyton Caswell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Colen of Greenpools</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Colin Florent</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Brightwater Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Corlys Velaryon</name>
+        <titles>
+            <title>Lord of the Tides</title>
+            <title>Master of Driftmark</title>
+            <title>Hand of the Queen</title>
+            <title>Lord Regent</title>
+            <title>Master of ships</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cortnay Penrose</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Storm's End</title>
+        </titles>
+    </character>
+    <character>
+        <name>Corwyn Corbray</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Regent</title>
+        </titles>
+    </character>
+    <character>
+        <name>Corwyn Corbray</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of the Five Fingers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cregan Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Creighton Longbough</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Creighton Redfort</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daella Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Lady of the Eyrie</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daella Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daemon Blackfyre</name>
+        <titles>
+            <title>Ser</title>
+            <title>Protector of the Realm (claimant)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daemon II Blackfyre</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men (claimant)</title>
+            <title>Protector of the Realm (claimant)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daemon Targaryen</name>
+        <titles>
+            <title>Prince</title>
+            <title>Commander of the City Watch</title>
+            <title>Master of coin</title>
+            <title>Master of laws</title>
+            <title>King of the Stepstones and the Narrow Sea</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daena Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daenerys Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daenora Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeron I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeron II</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeron Targaryen</name>
+        <titles>
+            <title>Prince</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeron Targaryen</name>
+        <titles>
+            <title>Prince of Dragonstone</title>
+            <title>Prince of Summerhall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeron Vaith</name>
+        <titles>
+            <title>Lord of the Red Dunes</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dagon Greyjoy</name>
+        <titles>
+            <title>Lord of Pyke</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dagos Manwoody</name>
+        <titles>
+            <title>Lord of Kingsgrave</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damion Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damon Lannister</name>
+        <titles>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damon Marbrand</name>
+        <titles>
+            <title>Lord of Ashemark</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damon Paege</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damon Shett</name>
+        <titles>
+            <title>the Knight of Gull Tower</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Damon Vypren</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Danelle Lothston</name>
+        <titles>
+            <title>Lady of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Danwell Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daven Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Delonne Allyrion</name>
+        <titles>
+            <title>Lady of Godsgrace</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dennis Plumm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Denys Arryn</name>
+        <titles>
+            <title>Ser</title>
+            <title>Keeper of the Gates of the Moon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Denys Darklyn</name>
+        <titles>
+            <title>Lord of Duskendale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Denys Mallister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Desmond Grell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Desmond Redwyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Deziel Dalt</name>
+        <titles>
+            <title>The Knight of Lemonwood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donella Hornwood</name>
+        <titles>
+            <title>Lady of Hornwood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnel</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnel Haigh</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnel Locke</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnel Swann</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnor Saltcliffe</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnor Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dontos Hollard</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Doran Martell</name>
+        <titles>
+            <title>Prince of Dorne</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dorren Stark</name>
+        <titles>
+            <title>King in the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Duncan</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Duncan Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dunstan Drumm</name>
+        <titles>
+            <title>Lord of Old Wyk</title>
+            <title>Captain of the Thunderer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Duram Bar Emmon</name>
+        <titles>
+            <title>Lord of Sharp Point</title>
+        </titles>
+    </character>
+    <character>
+        <name>Durran</name>
+        <titles>
+            <title>Storm King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dyanna Dayne</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eddara Tallhart</name>
+        <titles>
+            <title>Lady of Torrhen's Square</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eddard Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+            <title>Hand of the King</title>
+            <title>Protector of the Realm</title>
+            <title>Regent</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edderion Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eden Risley</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edgerran Oakheart</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edmund Ambrose</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edmund Waxley</name>
+        <titles>
+            <title>The Knight of Wickenden</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edmure Tully</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Riverrun (lost to Emmon Frey)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edmyn Tully</name>
+        <titles>
+            <title>Lord of Riverrun</title>
+            <title>Lord Paramount of the Trident</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edric Dayne</name>
+        <titles>
+            <title>Lord of Starfall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edrick Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edwyd Fossoway</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edwyle Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edwyn Osgrey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Edwyn Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eglantine</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elbert Arryn</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eldon Estermont</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Greenstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elia Martell</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ellery Vance</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ellyn Reyne</name>
+        <titles>
+            <title>Lady of Tarbeck Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elwood Meadows</name>
+        <titles>
+            <title>Lord of Grassy Vale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elys Waynwood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elys Westerling</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Emmon Cuy</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Emmon Frey</name>
+        <titles>
+            <title>Lord of Riverrun</title>
+        </titles>
+    </character>
+    <character>
+        <name>Endrew Tarth</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eon Hunter</name>
+        <titles>
+            <title>Lord of Longbow Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ermesande Hayford</name>
+        <titles>
+            <title>Lady of Hayford</title>
+        </titles>
+    </character>
+    <character>
+        <name>Erren Florent</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Euron Greyjoy</name>
+        <titles>
+            <title>Iron King</title>
+            <title>King of the Isles and the North</title>
+            <title>King of Salt and Rock</title>
+            <title>Son of the Sea Wind</title>
+            <title>Lord Reaper of Pyke</title>
+            <title>Captain of the Silence</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eustace</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eustace Hunter</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eustace Osgrey</name>
+        <titles>
+            <title>Knight and Master of Standfast</title>
+            <title>Lord of Coldmoat</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eyron Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ezzelyno</name>
+        <titles>
+            <title>Red Priest</title>
+        </titles>
+    </character>
+    <character>
+        <name>Falena Stokeworth</name>
+        <titles>
+            <title>Lady of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Flement Brax</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Forley Prester</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Frankyln Fowler</name>
+        <titles>
+            <title>Lord of Skyreach</title>
+            <title>Warden of the Prince's Pass</title>
+        </titles>
+    </character>
+    <character>
+        <name>Galbart Glover</name>
+        <titles>
+            <title>Master of Deepwood Motte</title>
+        </titles>
+    </character>
+    <character>
+        <name>Galtry the Green</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garlan Tyrell</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Brightwater Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garrison Prester</name>
+        <titles>
+            <title>Lord of Feastfires</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garse Goodbrook</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth Greenfield</name>
+        <titles>
+            <title>The Knight of Greenfield</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth Hightower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth Tyrell</name>
+        <titles>
+            <title>Lord Seneschal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth XII Gardener</name>
+        <titles>
+            <title>King of the Reach</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth the Gardener</name>
+        <titles>
+            <title>King of the Reach</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gawen Swann</name>
+        <titles>
+            <title>Lord of Stonehelm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gawen Westerling</name>
+        <titles>
+            <title>Lord of the Crag</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gawen Wylde</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms at Storm's End</title>
+        </titles>
+    </character>
+    <character>
+        <name>Genna Lannister</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerald Gower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Geremy Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Germund Botley</name>
+        <titles>
+            <title>Lord of Lordsport</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerold Grafton</name>
+        <titles>
+            <title>Lord of Gulltown</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerold Hightower</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerold Lannister</name>
+        <titles>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gilbert Farring</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gilwood Hunter</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Longbow Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gladden Wylde</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Glendon Flowers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Godric Borrell</name>
+        <titles>
+            <title>Lord of Sweetsister</title>
+            <title>Shield of Sisterton</title>
+            <title>Master of Breakwater Castle</title>
+            <title>Keeper of the Night Lamp</title>
+        </titles>
+    </character>
+    <character>
+        <name>Godry Farring</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gormon Peake</name>
+        <titles>
+            <title>Lord of Starpike, Dunstonbury (stripped) and Whitegrove (stripped)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gorold Goodbrother</name>
+        <titles>
+            <title>Lord of Hammerhorn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Grance Morrigen</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gulian Qorgyle</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gulian Swann</name>
+        <titles>
+            <title>Lord of Stonehelm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Guncer Sunglass</name>
+        <titles>
+            <title>Lord of Sweetport Sound</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gunthor Hightower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Guthor Grimm</name>
+        <titles>
+            <title>Lord of Greyshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Guyard Morrigen</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gwayne Corbray</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gwayne Gaunt</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gwayne Hightower</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gylbert Farwynd</name>
+        <titles>
+            <title>Lord of the Lonely Light</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gyles</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gyles III Gardener</name>
+        <titles>
+            <title>King of the Reach</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gyles Rosby</name>
+        <titles>
+            <title>Lord of Rosby</title>
+            <title>Lord Treasurer</title>
+            <title>Master of Coin</title>
+        </titles>
+    </character>
+    <character>
+        <name>Halleck Hoare</name>
+        <titles>
+            <title>King of the Isles and the Rivers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hallis Mollen</name>
+        <titles>
+            <title>Captain of the guards for Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Halmon Paege</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Halys Hornwood</name>
+        <titles>
+            <title>Lord of the Hornwood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harbert Paege</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harlan Grandison</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harlan Hunter</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harlen Tyrell</name>
+        <titles>
+            <title>High Steward of Highgarden</title>
+            <title>Lord Paramount of the Mander</title>
+            <title>Lord of Highgarden</title>
+            <title>Warden of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harmen Uller</name>
+        <titles>
+            <title>Lord of Hellholt</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harmond Umber</name>
+        <titles>
+            <title>Lord of the Last Hearth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harrag Hoare</name>
+        <titles>
+            <title>High King of the Iron Isles</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harras Harlaw</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master of Grey Garden</title>
+            <title>Lord of Greyshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harren Hoare</name>
+        <titles>
+            <title>King of the Isles and the Rivers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harrion Karstark</name>
+        <titles>
+            <title>Lord of Karhold</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harrold Hardyng</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harrold Osgrey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harrold Westerling</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harry Strickland</name>
+        <titles>
+            <title>Captain-General</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harwin Strong</name>
+        <titles>
+            <title>Ser</title>
+            <title>Captain</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harwood Fell</name>
+        <titles>
+            <title>Lord of Felwood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harwood Stout</name>
+        <titles>
+            <title>Lord of Goldgrass</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harwyn Hoare</name>
+        <titles>
+            <title>King of the Iron Islands</title>
+            <title>King of the Isles and the Rivers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harwyn Plumm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harys Haigh</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harys Swyft</name>
+        <titles>
+            <title>Knight of Cornfield</title>
+            <title>Hand of the King</title>
+            <title>Master of coin</title>
+            <title>Lord treasurer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Helaena Targaryen</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Helman Tallhart</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master of Torrhen's Square</title>
+        </titles>
+    </character>
+    <character>
+        <name>Herbert Bolling</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Herrock Kenning</name>
+        <titles>
+            <title>Lord of Kayce</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hoare</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hoarfrost Umber</name>
+        <titles>
+            <title>Lord of the Last Hearth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hobber Redwyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Horas Redwyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Horton Redfort</name>
+        <titles>
+            <title>Lord of Redfort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hosman Norcross</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hosteen Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hoster Tully</name>
+        <titles>
+            <title>Lord Paramount of the Trident</title>
+            <title>Lord of Riverrun</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hother Umber</name>
+        <titles>
+            <title>Castellan of Last Hearth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hotho Harlaw</name>
+        <titles>
+            <title>Master of the Tower of Glimmering</title>
+        </titles>
+    </character>
+    <character>
+        <name>Howland Reed</name>
+        <titles>
+            <title>Lord of Greywater Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hubard Rambton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugh</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugh Beesbury</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugh Grandison</name>
+        <titles>
+            <title>Lord of Grandview</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugo Vance</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugo Wull</name>
+        <titles>
+            <title>Big Bucket</title>
+            <title>The Wull</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Beesbury</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Hardyng</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Hewett</name>
+        <titles>
+            <title>Lord of Oakenshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Swyft</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Wagstaff</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Grandview</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hyle Hunt</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Illifer</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ilyn Payne</name>
+        <titles>
+            <title>Ser King's Justice</title>
+        </titles>
+    </character>
+    <character>
+        <name>Imry Florent</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord High Captain</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jacelyn Bywater</name>
+        <titles>
+            <title>Ser</title>
+            <title>Captain of the Mud Gate</title>
+            <title>Commander of the City Watch</title>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jack Bulwer</name>
+        <titles>
+            <title>First Ranger</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jack Musgood</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaehaerys I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaehaerys II</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaime Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+            <title>Warden of the East (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jammos Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Janos Slynt</name>
+        <titles>
+            <title>Commander of the City Watch Lord of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jared Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaremy Rykker</name>
+        <titles>
+            <title>Seracting First Ranger</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jarman Buckwell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jason Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jason Mallister</name>
+        <titles>
+            <title>Lord of Seagard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jasper Arryn</name>
+        <titles>
+            <title>Lord of the Eyrie Defender of the Vale</title>
+            <title>Warden of the East</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jasper Redfort</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jasper Wylde</name>
+        <titles>
+            <title>Lord of the Rain House</title>
+            <title>Master of laws</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeffory Norcross</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeor Mormont</name>
+        <titles>
+            <title>Lord of Bear Island (formerly)</title>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeyne Arryn</name>
+        <titles>
+            <title>Lady of the Eyrie</title>
+            <title>Defender of the Vale</title>
+            <title>Warden of the East</title>
+            <title>Lady Regent</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeyne Marbrand</name>
+        <titles>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeyne Westerling</name>
+        <titles>
+            <title>Queen</title>
+            <title>Black Bride</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jeyne Westerling</name>
+        <titles>
+            <title>Queen</title>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joanna Lannister</name>
+        <titles>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joffrey Baratheon</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joffrey Caswell</name>
+        <titles>
+            <title>Lord of Bitterbridge</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joffrey Lonmouth</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Johanna Lannister</name>
+        <titles>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Arryn</name>
+        <titles>
+            <title>Lord of the Eyrie</title>
+            <title>Defender of the Vale</title>
+            <title>Warden of the East</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Bettley</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Bulwer</name>
+        <titles>
+            <title>Lord of Blackcrown</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Connington</name>
+        <titles>
+            <title>Lord of Griffin's Roost</title>
+            <title>Hand of the King</title>
+            <title>Hand of the True King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Fossoway</name>
+        <titles>
+            <title>The Knight of New Barrel</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Hollard</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Lynderly</name>
+        <titles>
+            <title>Lord of the Snakewood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Penrose</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Redfort</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Snow</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Stark</name>
+        <titles>
+            <title>King in the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Umber</name>
+        <titles>
+            <title>Lord of the Last Hearth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Wylde</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jonelle Cerwyn</name>
+        <titles>
+            <title>Lady of Cerwyn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jonnel Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jonos Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jonothor Darry</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jorah Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jory Cassel</name>
+        <titles>
+            <title>Captain of the guard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joseth Mallister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joyeuse Erenford</name>
+        <titles>
+            <title>Lady of the Crossing</title>
+        </titles>
+    </character>
+    <character>
+        <name>Justin Massey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Karlon Stark</name>
+        <titles>
+            <title>Lord of Karl's Hold</title>
+        </titles>
+    </character>
+    <character>
+        <name>Karyl Vance</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Wayfarer's Rest</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kevan Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master of laws</title>
+            <title>Lord Regent</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kyle Condon</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Laenor Velaryon.</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lambert Turnberry</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lancel Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Darry</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lancel V Lannister</name>
+        <titles>
+            <title>King of the Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Larys Strong</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+            <title>Master of whisperers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leo Blackbar</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leo Lefford</name>
+        <titles>
+            <title>Lord of the Golden Tooth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leo Tyrell</name>
+        <titles>
+            <title>Lord Paramount of the Mander</title>
+            <title>Lord of Highgarden</title>
+            <title>Defender of the Marches</title>
+            <title>High Marshal of the Reach</title>
+            <title>Warden of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leo Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leobald Tallhart</name>
+        <titles>
+            <title>Castellan of Torrhen's Square</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leslyn Haigh</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lester Morrigen</name>
+        <titles>
+            <title>Lord of Crows Nest</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lewyn Martell</name>
+        <titles>
+            <title>Prince</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lewys Lydden</name>
+        <titles>
+            <title>Lord of the Deep Den</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leyton Hightower</name>
+        <titles>
+            <title>Lord of the Hightower</title>
+            <title>Lord of the Port</title>
+            <title>Voice of Oldtown</title>
+            <title>Defender of the Citadel</title>
+            <title>Beacon of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lollys Stokeworth</name>
+        <titles>
+            <title>Lady of Stokeworth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lomas Estermont</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Loras Tyrell</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Rainbow Guard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lord Ashford</name>
+        <titles>
+            <title>Lord of Ashford</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lord Caswell</name>
+        <titles>
+            <title>Lord of Bitterbridge</title>
+            <title>Defender of the Fords</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lord Staunton</name>
+        <titles>
+            <title>Lord of Rook's Rest</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lorent Caswell</name>
+        <titles>
+            <title>Lord of Bitterbridge</title>
+            <title>Defender of the Fords</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lorent Lorch</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lorent Marbrand</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Queensguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lorra Royce</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lothar Frey</name>
+        <titles>
+            <title>Steward of the Twins</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lothar Mallery</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lothor Brune</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucamore Strong</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucas Corbray</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucas Inchfield</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucas Lothston</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Luceon Frey</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucias Vypren</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucion Lannister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucos Chyttering</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Luthor Tyrell</name>
+        <titles>
+            <title>Lord Paramount of the Mander</title>
+            <title>Lord of Highgarden</title>
+            <title>Defender of the Marches</title>
+            <title>High Marshal of the Reach</title>
+            <title>Warden of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Luthor Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyessa Flint</name>
+        <titles>
+            <title>Lady of Widow's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyle Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyman Beesbury</name>
+        <titles>
+            <title>Lord</title>
+            <title>Master of coin</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyman Darry</name>
+        <titles>
+            <title>Lord of Darry</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lymond Goodbrook</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lymond Lychester</name>
+        <titles>
+            <title>Lord of Castle Lychester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lymond Mallister</name>
+        <titles>
+            <title>Lord of Seagard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lymond Vikary</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyn Corbray</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Baratheon</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Storm's End</title>
+            <title>Lord Paramount of the Stormlands</title>
+            <title>Storm King (briefly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Bentley</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Corbray</name>
+        <titles>
+            <title>Lord of Heart's Home</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Selmy</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of Harvest Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Strong</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+            <title>Master of laws</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel Tyrell</name>
+        <titles>
+            <title>Lord Paramount of the Mander</title>
+            <title>Lord of Highgarden</title>
+            <title>Defender of the Marches</title>
+            <title>High Marshal of the Reach</title>
+            <title>Warden of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lysa Arryn</name>
+        <titles>
+            <title>Lady of the Vale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mace Tyrell</name>
+        <titles>
+            <title>Lord of Highgarden</title>
+            <title>Defender of the Marches</title>
+            <title>High Marshal of the Reach</title>
+            <title>Warden of the South</title>
+            <title>Hand of the King</title>
+            <title>Master of ships (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maege Mormont</name>
+        <titles>
+            <title>Lady of Bear Island</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maegor I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+            <title>Hand of the King</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maekar I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+            <title>Prince of Summerhall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maelor Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maldon Massey</name>
+        <titles>
+            <title>Lord of Stonedance</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mallador Locke</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mandon Moore</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Manfred Dondarrion</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Manfred Swann</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Manfrey Martell</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Sunspear</title>
+        </titles>
+    </character>
+    <character>
+        <name>Manfryd Yew</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Margot Lannister</name>
+        <titles>
+            <title>Lady of Starpike</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mariah Martell</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maric Seaworth</name>
+        <titles>
+            <title>Oarmaster</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mark Mullendore</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mark Ryswell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marlon Manderly</name>
+        <titles>
+            <title>Ser</title>
+            <title>Commander of the garrison at White Harbor</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marna Locke</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maron Nymeros Martell</name>
+        <titles>
+            <title>Prince of Dorne</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maron Volmark</name>
+        <titles>
+            <title>Lord of Volmark</title>
+            <title>Lord of Greenshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marq Piper</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marq Rankenfell</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Martyn Mullendore</name>
+        <titles>
+            <title>Lord of Uplands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marwyn Belmore</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mary Mertyns</name>
+        <titles>
+            <title>Lady of Mistwood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Matarys Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mathis Rowan</name>
+        <titles>
+            <title>Lord of Goldengrove</title>
+            <title>Marshall of the Northmarch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maynard Plumm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Medgar Tully</name>
+        <titles>
+            <title>Lord Paramount of the Trident</title>
+            <title>Lord of Riverrun</title>
+        </titles>
+    </character>
+    <character>
+        <name>Medger Cerwyn</name>
+        <titles>
+            <title>Lord of Cerwyn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Melantha Blackwood</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Meldred Merlyn</name>
+        <titles>
+            <title>Lord of Pebbleton</title>
+        </titles>
+    </character>
+    <character>
+        <name>Melwyn Sarsfield</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Merlon Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mern IX Gardener</name>
+        <titles>
+            <title>King of the Reach</title>
+            <title>Lord of Highgarden</title>
+        </titles>
+    </character>
+    <character>
+        <name>Meryn Trant</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Michael Mertyns</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Minisa Whent</name>
+        <titles>
+            <title>Lady of Riverrun</title>
+        </titles>
+    </character>
+    <character>
+        <name>Monford Velaryon</name>
+        <titles>
+            <title>Lord of the Tides</title>
+            <title>Master of Driftmark</title>
+        </titles>
+    </character>
+    <character>
+        <name>Monterys Velaryon</name>
+        <titles>
+            <title>Lord of the Tides</title>
+            <title>Master of Driftmark</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moqorro</name>
+        <titles>
+            <title>Slave of R'hllor</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morgil Hastwyck</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moribald Chester</name>
+        <titles>
+            <title>Lord of Greenshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morros Slynt</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mors Umber</name>
+        <titles>
+            <title>Castellan of Last Hearth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morya Frey</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moryn Tyrell</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the City Watch of Oldtown</title>
+        </titles>
+    </character>
+    <character>
+        <name>Murmison</name>
+        <titles>
+            <title>Septon</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mychel Redfort</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myles Manwoody</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myles Mooton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myles Smallwood</name>
+        <titles>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myrcella Baratheon</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myriame Manderly</name>
+        <titles>
+            <title>Lady of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Naerys Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Norbert Vance</name>
+        <titles>
+            <title>Lord of Atranta</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nymella Toland</name>
+        <titles>
+            <title>Lady of Ghost Hill</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nymeria</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Olenna Redwyne</name>
+        <titles>
+            <title>Dowager Lady of Highgarden</title>
+        </titles>
+    </character>
+    <character>
+        <name>Olymer Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Olyvar Oakheart</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ondrew Locke</name>
+        <titles>
+            <title>Lord of Oldcastle</title>
+        </titles>
+    </character>
+    <character>
+        <name>Orbert Caswell</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Orivel</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormond Osgrey</name>
+        <titles>
+            <title>Lord of Coldmoat</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormond Westerling</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormond Yronwood</name>
+        <titles>
+            <title>Lord of Yronwood</title>
+            <title>Warden of the Stoneway</title>
+            <title>The Bloodroyal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormund Baratheon</name>
+        <titles>
+            <title>Lord Paramount of the Stormlands</title>
+            <title>Lord of Storm's End</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormund Wylde</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Orton Merryweather</name>
+        <titles>
+            <title>Lord of Longtable</title>
+            <title>Justiciar</title>
+            <title>Master of laws</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Orys Baratheon</name>
+        <titles>
+            <title>Lord of Storm's End</title>
+            <title>Lord Paramount of the Stormlands</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Osbert Serry</name>
+        <titles>
+            <title>Lord of Southshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Osfryd Kettleblack</name>
+        <titles>
+            <title>Ser</title>
+            <title>Commander of the City Watch of King's Landing</title>
+        </titles>
+    </character>
+    <character>
+        <name>Osmund Kettleblack</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Osney Kettleblack</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ossifer Plumm</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Oswell Whent</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Othell Yarwyck</name>
+        <titles>
+            <title>First Builder</title>
+        </titles>
+    </character>
+    <character>
+        <name>Otho Bracken</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Otto Hightower</name>
+        <titles>
+            <title>Ser</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ottyn Wythers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Owen Inchfield</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Parmen Crane</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Paxter Redwyne</name>
+        <titles>
+            <title>Lord of the Arbor</title>
+            <title>Grand admiral</title>
+            <title>Lord Admiral</title>
+            <title>Master of ships</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pearse Caron</name>
+        <titles>
+            <title>Lord of Nightsong</title>
+            <title>Lord of the Marches</title>
+        </titles>
+    </character>
+    <character>
+        <name>Perwyn Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Perwyn Osgrey</name>
+        <titles>
+            <title>Lord of Coldmoat</title>
+        </titles>
+    </character>
+    <character>
+        <name>Peter Plumm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Petyr Baelish</name>
+        <titles>
+            <title>Master of coin (formerly)</title>
+            <title>Lord Paramount of the Trident</title>
+            <title>Lord of Harrenhal</title>
+            <title>Lord Protector of the Vale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Philip Foote</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Nightsong</title>
+            <title>Lord of the Marches</title>
+        </titles>
+    </character>
+    <character>
+        <name>Philip Plumm</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Preston Greenfield</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qarlton Chelsted</name>
+        <titles>
+            <title>Lord</title>
+            <title>Master of Coin</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qhorwyn Hoare</name>
+        <titles>
+            <title>King of the Iron Islands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qorgyle</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quellon Greyjoy</name>
+        <titles>
+            <title>Lord of the Iron Islands</title>
+            <title>Lord Reaper of Pyke</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quenten Banefort</name>
+        <titles>
+            <title>Lord of Banefort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quentin Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quenton Hightower</name>
+        <titles>
+            <title>Lord of the Hightower</title>
+            <title>Lord of the Port</title>
+            <title>Voice of Oldtown</title>
+            <title>Defender of the Citadel</title>
+            <title>Beacon of the South</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quenton Qoherys</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+            <title>Master-at-arms of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quentyn Ball</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quentyn Blackwood</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quentyn Martell</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quentyn Qorgyle</name>
+        <titles>
+            <title>Lord of Sandstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ralf Kenning</name>
+        <titles>
+            <title>Castellan</title>
+            <title>Commander</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ralf Stonehouse</name>
+        <titles>
+            <title>Captain of Red Jester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ralph Buckler</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ramsay Snow</name>
+        <titles>
+            <title>Lord of the Hornwood</title>
+            <title>Lord of Winterfell</title>
+            <title>Castellan of the Dreadfort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Randyll Tarly</name>
+        <titles>
+            <title>Lord of Horn Hill</title>
+            <title>Justiciar</title>
+            <title>Master of laws</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ravella Swann</name>
+        <titles>
+            <title>Lady of Acorn Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymun Darry</name>
+        <titles>
+            <title>Lord of Darry</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymun Fossoway</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymund Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raynald Westerling</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raynard Ruttiger</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Regenard Estren</name>
+        <titles>
+            <title>Lord of Wyndhall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Renfred Rykker</name>
+        <titles>
+            <title>Lord of Duskendale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Renly Baratheon</name>
+        <titles>
+            <title>Lord Paramount of the Stormlands</title>
+            <title>Lord of Storm's End</title>
+            <title>Master of laws</title>
+            <title>Lord of the Seven Kingdoms (claimant)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Reynard Webber</name>
+        <titles>
+            <title>Lord of Coldmoat</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhae Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaegar Targaryen</name>
+        <titles>
+            <title>Prince of Dragonstone</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaegel Targaryen</name>
+        <titles>
+            <title>Prince of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaella Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+            <title>Dowager Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaelle Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaena Targaryen</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaena Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaena Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaenyra Targaryen</name>
+        <titles>
+            <title>Princess of Dragonstone</title>
+            <title>Lady of the Seven Kingdoms (claimant)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaenys Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaenys Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhea Royce</name>
+        <titles>
+            <title>Lady of Runestone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Richard Horpe</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Richard Lonmouth</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Richard Morrigen</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rickard Karstark</name>
+        <titles>
+            <title>Lord of Karhold</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rickard Stark</name>
+        <titles>
+            <title>King in the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rickard Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rickard Thorne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rickon Stark</name>
+        <titles>
+            <title>Prince of Winterfell</title>
+            <title>Heir to Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robar Royce</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robb Reyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert Arryn</name>
+        <titles>
+            <title>Lord of the Eyrie</title>
+            <title>Defender of the Vale</title>
+            <title>Warden of the East</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert Ashford</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert Brax</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert Flowers</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert I Baratheon</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robert Paege</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Hill</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Moreland</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Peasebury</name>
+        <titles>
+            <title>Lord of Poddingfield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Ryger</name>
+        <titles>
+            <title>Ser</title>
+            <title>Captain of the guards at Riverrun</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robyn Rhysling</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Cassel</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms of Winterfell</title>
+            <title>Castellan of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Harlaw</name>
+        <titles>
+            <title>Lord of Harlaw</title>
+            <title>Lord of the Ten Towers</title>
+            <title>The Harlaw of Harlaw</title>
+            <title>Captain of the Sea Song</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Ryswell</name>
+        <titles>
+            <title>Lord of the Rills</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Stark</name>
+        <titles>
+            <title>King in the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodwell Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roelle</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roland Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roland Crakehall</name>
+        <titles>
+            <title>Lord of Crakehall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolland Darklyn</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolland Storm</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Dragonstone</title>
+            <title>Lord of Nightsong (claimant)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolland Uffering</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolph Spicer</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of the Crag</title>
+            <title>Lord of Castamere</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ronald Connington</name>
+        <titles>
+            <title>Ser the Knight of Griffin's Roost</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ronald Vance</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ronnet Connington</name>
+        <titles>
+            <title>Ser Knight of Griffin's Roost</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roose Bolton</name>
+        <titles>
+            <title>Lord of the Dreadfort</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rossart</name>
+        <titles>
+            <title>Grand Master</title>
+            <title>Wisdom</title>
+            <title>Lord Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Royce Coldwater</name>
+        <titles>
+            <title>Lord of Coldwater Burn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Runcel Hightower</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rupert Brax</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rupert Crabb</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ryam Florent</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ryam Redwyne</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rycherd Crane</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ryman Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Saera Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Samwell Spicer</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sansa Stark</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sarya Whent</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sawane Botley</name>
+        <titles>
+            <title>Lord of Lordsport</title>
+            <title>Captain of Swiftfin</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sebastion Errol</name>
+        <titles>
+            <title>Lord of Haystack Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sebaston Farman</name>
+        <titles>
+            <title>Lord of Fair Isle</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sefton Staunton</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Selmond Stackspear</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Selwyn Tarth</name>
+        <titles>
+            <title>Lord of Evenfall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Serala of Myr</name>
+        <titles>
+            <title>Lady of Duskendale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Serwyn</name>
+        <titles>
+            <title>Ser (in songs and tales)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Shadrich</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Shaera Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Shella Whent</name>
+        <titles>
+            <title>Lady of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Shireen Baratheon</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Shyra Errol</name>
+        <titles>
+            <title>Lady of Haystack Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sigfryd Harlaw</name>
+        <titles>
+            <title>Master of Harlaw Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sigorn</name>
+        <titles>
+            <title>Magnar of Thenn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Simon Leygood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Simon Staunton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Stafford Lannister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Baratheon</name>
+        <titles>
+            <title>Lord of Storm's End</title>
+            <title>Lord Paramount of the Stormlands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Darklyn</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Queensguard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Fossoway</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Hollard</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Stackspear</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Swyft</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Steffon Varner</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Stevron Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sumner Crakehall</name>
+        <titles>
+            <title>Lord of Crakehall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sybell Spicer</name>
+        <titles>
+            <title>Lady of the Crag</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sybelle Glover</name>
+        <titles>
+            <title>Lady of Deepwood Motte</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sylva Santagar</name>
+        <titles>
+            <title>Lady of Greenstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Symon Hollard</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms at the Dun Fort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Symon Santagar</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of Spottswood</title>
+        </titles>
+    </character>
+    <character>
+        <name>Symond Templeton</name>
+        <titles>
+            <title>Ser</title>
+            <title>The Knight of Ninestars</title>
+        </titles>
+    </character>
+    <character>
+        <name>Talbert Serry</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tallad</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tanda Stokeworth</name>
+        <titles>
+            <title>Lady of Stokeworth</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tanton Fossoway</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Terrence Kenning</name>
+        <titles>
+            <title>Lord of Kayce</title>
+        </titles>
+    </character>
+    <character>
+        <name>Terrence Toyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>The Sparr</name>
+        <titles>
+            <title>The Sparr</title>
+        </titles>
+    </character>
+    <character>
+        <name>The Stonehouse</name>
+        <titles>
+            <title>Lord Stonehouse</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theodan Wells</name>
+        <titles>
+            <title>Ser</title>
+            <title>Commander of the Warrior's Sons</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theodore Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theomar Smallwood</name>
+        <titles>
+            <title>Lord of Acorn Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theomore Harlaw</name>
+        <titles>
+            <title>Lord of the Ten Towers</title>
+            <title>Lord Harlaw of Harlaw</title>
+            <title>Harlaw of Harlaw</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theon Greyjoy</name>
+        <titles>
+            <title>Prince of Winterfell</title>
+            <title>Captain of Sea Bitch</title>
+            <title>Lord of the Iron Islands (by law of the green lands)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theon Stark</name>
+        <titles>
+            <title>King of Winter</title>
+        </titles>
+    </character>
+    <character>
+        <name>Thoren Smallwood</name>
+        <titles>
+            <title>First Ranger (self-styled)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tion Lannister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Titus Peake</name>
+        <titles>
+            <title>Lord of Starpike</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tom Costayne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tommen Baratheon</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tommen Costayne</name>
+        <titles>
+            <title>Lord of the Three Towers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Torren Liddle</name>
+        <titles>
+            <title>The Liddle</title>
+            <title>Lord Liddle</title>
+        </titles>
+    </character>
+    <character>
+        <name>Torrence Teague</name>
+        <titles>
+            <title>King of the Trident</title>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Torrhen Stark</name>
+        <titles>
+            <title>King in the North (former)</title>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Trebor Jordayne</name>
+        <titles>
+            <title>Lord of the Tor</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tremond Gargalen</name>
+        <titles>
+            <title>Lord of Salt Shore</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tristan Mudd</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tristifer Botley</name>
+        <titles>
+            <title>Heir to Lordsport</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tristifer IV Mudd</name>
+        <titles>
+            <title>King of the Rivers and the Hills</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tristifer V</name>
+        <titles>
+            <title>King of the Rivers and the Hills</title>
+        </titles>
+    </character>
+    <character>
+        <name>Triston Sunderland</name>
+        <titles>
+            <title>Lord of the Three Sisters</title>
+        </titles>
+    </character>
+    <character>
+        <name>Trystane Martell</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tybolt Crakehall</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tybolt Hetherspoon</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tybolt Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tygett Lannister</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tyland Lannister</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master of ships</title>
+            <title>Master of coin</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tyrion Lannister</name>
+        <titles>
+            <title>Acting Hand of the King (former)</title>
+            <title>Master of Coin (former)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tytos Brax</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Hornvale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tytos Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tytos Lannister</name>
+        <titles>
+            <title>Lord of Casterly Rock</title>
+            <title>Shield of Lannisport</title>
+            <title>Warden of the West</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tywin Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ulrick Dayne</name>
+        <titles>
+            <title>Ser</title>
+            <title>Sword of the Morning</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ulwyck Uller</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Utherydes Wayn</name>
+        <titles>
+            <title>Steward</title>
+        </titles>
+    </character>
+    <character>
+        <name>Uthor Tollett</name>
+        <titles>
+            <title>Lord of the Grey Glen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Uthor Underleaf</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vaemond Velaryon</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Valarr Targaryen</name>
+        <titles>
+            <title>Prince</title>
+            <title>Hand of the King (possibly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vardis Egen</name>
+        <titles>
+            <title>Ser</title>
+            <title>Captain of the Guards</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vayon Poole</name>
+        <titles>
+            <title>Steward of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Velaena Velaryon</name>
+        <titles>
+            <title>Lady of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vickon Greyjoy</name>
+        <titles>
+            <title>Lord of the Iron Islands</title>
+            <title>Lord Reaper of Pyke</title>
+        </titles>
+    </character>
+    <character>
+        <name>Victarion Greyjoy</name>
+        <titles>
+            <title>Lord Captain of the Iron Fleet</title>
+            <title>Master of the Iron Victory</title>
+        </titles>
+    </character>
+    <character>
+        <name>Victor Tyrell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Viserys I</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Viserys II</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men</title>
+            <title>Lord of the Seven Kingdoms</title>
+            <title>Protector of the Realm</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Viserys Plumm</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Viserys Targaryen</name>
+        <titles>
+            <title>King of the Andals, the Rhoynar and the First Men, Lord of the Seven Kingdoms and Protector of the Realm</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vortimer Crane</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms at Highgarden</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walder Frey</name>
+        <titles>
+            <title>Lord of the Crossing</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walder Rivers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Waldon Wynch</name>
+        <titles>
+            <title>Lord of Iron Holt</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wallace Waynwood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walter Whent</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walton Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Warryn Beesbury</name>
+        <titles>
+            <title>Lord of Honeyholt</title>
+        </titles>
+    </character>
+    <character>
+        <name>Waymar Royce</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wendel Manderly</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Whalen Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wilbert Osgrey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willam Dustin</name>
+        <titles>
+            <title>Lord of Barrowton</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willam Stark</name>
+        <titles>
+            <title>Lord of Winterfell</title>
+            <title>Warden of the North</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willam Wythers</name>
+        <titles>
+            <title>Ser</title>
+            <title>Captain of the Guards</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willem Darry</name>
+        <titles>
+            <title>Ser Master-at-arms at the Red Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willem Wylde</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>William Mooton</name>
+        <titles>
+            <title>Lord of Maidenpool</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willis Fell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willis Wode</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wylis Manderly</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wyman Manderly</name>
+        <titles>
+            <title>Lord of White Harbor</title>
+            <title>Warden of the White Knife</title>
+            <title>Shield of the Faith</title>
+            <title>Defender of the Dispossessed</title>
+            <title>Lord Marshal of the Mander</title>
+            <title>Knight of the Order of the Green Hand</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wynton Stout</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Yohn Royce</name>
+        <titles>
+            <title>Lord of Runestone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Addam</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aethelmure</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aggo</name>
+        <titles>
+            <title>Ko, Bloodrider of Daenerys Targaryen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Agrivane</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Alesandor Torrent</name>
+        <titles>
+            <title>Lord of Littlesister</title>
+        </titles>
+    </character>
+    <character>
+        <name>Allard Seaworth</name>
+        <titles>
+            <title>Captain of the Lady Marya</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andrey Dalt</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Andrik</name>
+        <titles>
+            <title>Lord of Southshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Areo Hotah</name>
+        <titles>
+            <title>Captain of the Guard at Sunspear</title>
+        </titles>
+    </character>
+    <character>
+        <name>Argrave the Defiant</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arneld</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Arnell</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Aurane Waters</name>
+        <titles>
+            <title>Grand admiral (master of ships)</title>
+            <title>Lord of the Waters</title>
+        </titles>
+    </character>
+    <character>
+        <name>Azzak</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bael</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ballabar</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Beck</name>
+        <titles>
+            <title>Goodman</title>
+        </titles>
+    </character>
+    <character>
+        <name>Belis</name>
+        <titles>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Benedict</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bennet</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bhakaz zo Loraq</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Bharbo</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brenett</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Brynden Rivers</name>
+        <titles>
+            <title>Ser</title>
+            <title>Hand of the King</title>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Byam Flint</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Byren Flowers</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Byron</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cadwyn</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cafferen</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Caleotte</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Castos</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cellador</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cerrick</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cetheres</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clarence Crabb</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clegane</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of Clegane's Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clement</name>
+        <titles>
+            <title>Brother</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cleon</name>
+        <titles>
+            <title>King of Astapor</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cleos Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Clifford Conklyn</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cohollo</name>
+        <titles>
+            <title>Ko</title>
+            <title>Bloodrider of Khal Drogo</title>
+        </titles>
+    </character>
+    <character>
+        <name>Colemon</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Corliss Penny</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Corlos</name>
+        <titles>
+            <title>Lord of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cosgrove</name>
+        <titles>
+            <title>Steward</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cotter Pyke</name>
+        <titles>
+            <title>Commander of Eastwatch-by-the-Sea</title>
+        </titles>
+    </character>
+    <character>
+        <name>Courteny Greenhill</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Cressen</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daemon Sand</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daenaera Velaryon</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daenerys Targaryen</name>
+        <titles>
+            <title>Queen of the Andals and the Rhoynar and the First Men, Lord of the Seven Kingdoms</title>
+            <title>Khaleesi of the Great Grass Sea</title>
+            <title>Breaker of Shackles/Chains</title>
+            <title>Queen of Meereen</title>
+            <title>Princess of Dragonstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Daeryssa</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dafyn Vance</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dagmer</name>
+        <titles>
+            <title>Captain of Foamdrinker</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dale Seaworth</name>
+        <titles>
+            <title>Captain of the Wraith</title>
+        </titles>
+    </character>
+    <character>
+        <name>Darla Deddings</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Davos Seaworth</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of the Rainwood</title>
+            <title>Admiral of the Narrow Sea</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Denestan</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dermot</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dhazzar</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donnel Waynwood</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of the Gate</title>
+        </titles>
+    </character>
+    <character>
+        <name>Donyse</name>
+        <titles>
+            <title>Septa</title>
+        </titles>
+    </character>
+    <character>
+        <name>Draqaz</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Drogo</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dudley</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Dunaver</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ebrose</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elaena Targaryen</name>
+        <titles>
+            <title>Princess</title>
+        </titles>
+    </character>
+    <character>
+        <name>Elder Brother</name>
+        <titles>
+            <title>Elder Brother</title>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Erik Ironmaker</name>
+        <titles>
+            <title>Lord Steward of the Iron Islands</title>
+            <title>Castellan of Pyke</title>
+        </titles>
+    </character>
+    <character>
+        <name>Erreck</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Erreg</name>
+        <titles>
+            <title>King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eustace</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Eustace Brune</name>
+        <titles>
+            <title>Lord of the Dyre Den</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ezzara</name>
+        <titles>
+            <title>Blue Grace</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ferrego Antaryon</name>
+        <titles>
+            <title>Sealord of Braavos</title>
+        </titles>
+    </character>
+    <character>
+        <name>Fogo</name>
+        <titles>
+            <title>Khalakka</title>
+        </titles>
+    </character>
+    <character>
+        <name>Franklyn Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Frenken</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Galazza Galare</name>
+        <titles>
+            <title>Green Grace</title>
+        </titles>
+    </character>
+    <character>
+        <name>Galladon of Morne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gallard</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gareth</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gareth Clifton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garigus</name>
+        <titles>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garin</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garizon</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Garth Greenhand</name>
+        <titles>
+            <title>High King of the First Men</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gascoyne</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gendel</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gendry</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerardys</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerold Dayne</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of High Hermitage</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerrick</name>
+        <titles>
+            <title>King of the Wildlings</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gerris Drinkwater</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ghael</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Glendon Hewett</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Goodwin</name>
+        <titles>
+            <title>Ser</title>
+            <title>Master-at-arms at Evenfall Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gormon Tyrell</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gorne</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Grazdan</name>
+        <titles>
+            <title>Good Master</title>
+        </titles>
+    </character>
+    <character>
+        <name>Grazdan mo Ullhor</name>
+        <titles>
+            <title>Good Master</title>
+        </titles>
+    </character>
+    <character>
+        <name>Grazdar zo Galare</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gregor Clegane</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of Clegane's Keep</title>
+        </titles>
+    </character>
+    <character>
+        <name>Grey King</name>
+        <titles>
+            <title>High King of the Iron Islands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Griffin King</name>
+        <titles>
+            <title>last of the Mountain King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Groleo</name>
+        <titles>
+            <title>Captain</title>
+            <title>Lord Admiral</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gulian</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Guyne</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Gyldayn</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Haggo</name>
+        <titles>
+            <title>Bloodrider of Khal Drogo</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hallyne</name>
+        <titles>
+            <title>Lord</title>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harbert</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of Storm's End</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hareth</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harmune</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harodon</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Harry Sawyer</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Helliweg</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Henly</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hizdahr zo Loraq</name>
+        <titles>
+            <title>King of Meereen</title>
+            <title>Scion of Ghis</title>
+            <title>Octarch of the Old Empire</title>
+            <title>Master of the Skahazadhan, Consort to Dragons</title>
+            <title>Blood of the Harpy</title>
+        </titles>
+    </character>
+    <character>
+        <name>Criston Cole</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord Commander of the Kingsguard</title>
+            <title>Hand of the King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugh Hammer</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Bitterbridge</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hugor of the Hill</name>
+        <titles>
+            <title>King of the Andals</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hullen</name>
+        <titles>
+            <title>Master of horse at Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Humfrey Clifton</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Hunnimore</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Illyrio Mopatis</name>
+        <titles>
+            <title>Magister of Pentos</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaehaera Targaryen</name>
+        <titles>
+            <title>Princess</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jaehaerys Targaryen</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jalabhar Xho</name>
+        <titles>
+            <title>Prince of the Red Flower Vale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jezhene</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jhaqo</name>
+        <titles>
+            <title>Khal</title>
+            <title>Ko (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jhogo</name>
+        <titles>
+            <title>Ko</title>
+            <title>Bloodrider</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jommo</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Cupps</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Heddle</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Vance</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jon Waters</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jonos Bracken</name>
+        <titles>
+            <title>Lord of Stone Hedge</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jorah Mormont</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Bear Island (stripped)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joramun</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jorquen</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Joseran</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Jurne</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kaeth</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kedry</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kennos of Kayce</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kezmya</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kiera of Tyrosh</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kirby Pimm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kyle</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Kym</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lady of the Leaves</name>
+        <titles>
+            <title>Lady of the Leaves</title>
+        </titles>
+    </character>
+    <character>
+        <name>Larra Blackmont</name>
+        <titles>
+            <title>Lady of Blackmont</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leathers</name>
+        <titles>
+            <title>Master-at-Arms</title>
+        </titles>
+    </character>
+    <character>
+        <name>Leonette Fossoway</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lomys</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lord Belgrave</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Loren I Lannister</name>
+        <titles>
+            <title>King of the Rock (former)</title>
+            <title>Lord of Casterly Rock</title>
+            <title>Warden of the West</title>
+            <title>Lord of the Westerlands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lorimer</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lothar</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucantine Woodwright</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucas Nayland</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucifer Hardy</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lucos</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Lyonel</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maerie</name>
+        <titles>
+            <title>Goodwife</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mago</name>
+        <titles>
+            <title>Bloodrider of Khal Jhaqo</title>
+        </titles>
+    </character>
+    <character>
+        <name>Malcolm</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Malleon</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Malliard</name>
+        <titles>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mallor</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mance Rayder</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maris the Maid</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marwyn</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Marya Seaworth</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Maynard</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Medwick Tyrell</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Melaquin</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mellos</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Melwys Rivers</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mezzara</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Miklaz</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mirri Maz Duur</name>
+        <titles>
+            <title>Godswife</title>
+            <title>Maegi</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mollos</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moredo Prestayn</name>
+        <titles>
+            <title>Tradesman-Captain</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morgan Martell</name>
+        <titles>
+            <title>Lord of the Sandship</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morgarth</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Moro</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mors Martell</name>
+        <titles>
+            <title>Lord of the Sandship</title>
+            <title>Prince of Dorne</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mortimer Boggs</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Morton Waynwood</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mullin</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Munciter</name>
+        <titles>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Murenmure</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Myles</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Mysaria</name>
+        <titles>
+            <title>Mistress of whisperers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Narbert</name>
+        <titles>
+            <title>Brother</title>
+            <title>Proctor</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nestor Royce</name>
+        <titles>
+            <title>Keeper of the Gates of the Moon</title>
+            <title>High Steward of the Vale</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nolla</name>
+        <titles>
+            <title>Goodwife</title>
+        </titles>
+    </character>
+    <character>
+        <name>Normund Tyrell</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Norne Goodbrother</name>
+        <titles>
+            <title>Lord of Shatterstone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Norren</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nute</name>
+        <titles>
+            <title>Lord of Oakenshield</title>
+        </titles>
+    </character>
+    <character>
+        <name>Nymos</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Oberyn Nymeros Martell</name>
+        <titles>
+            <title>Prince</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ocley</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ogo</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Omer Florent</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ordello</name>
+        <titles>
+            <title>Magister of Pentos</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ormond</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Orwyle</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pate</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Plummer</name>
+        <titles>
+            <title>Steward of Ashford</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pollitor</name>
+        <titles>
+            <title>Wisdom</title>
+        </titles>
+    </character>
+    <character>
+        <name>Polliver</name>
+        <titles>
+            <title>Castellan of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pono</name>
+        <titles>
+            <title>Khal</title>
+            <title>Ko (formerly)</title>
+        </titles>
+    </character>
+    <character>
+        <name>Portifer Woodwright</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pyat Pree</name>
+        <titles>
+            <title>Warlock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pycelle</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Pylos</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qalen</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qarl Correy</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qarro Volentin</name>
+        <titles>
+            <title>First Sword of Braavos</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qezza</name>
+        <titles>
+            <title>Cupbearer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qos</name>
+        <titles>
+            <title>Captain of the Wind Witch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qotho</name>
+        <titles>
+            <title>Bloodrider of Khal Drogo</title>
+        </titles>
+    </character>
+    <character>
+        <name>Quincy Cox</name>
+        <titles>
+            <title>Serthe Knight of Saltpans</title>
+        </titles>
+    </character>
+    <character>
+        <name>Qyburn</name>
+        <titles>
+            <title>Master of whisperers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rakharo</name>
+        <titles>
+            <title>Ko</title>
+            <title>Bloodrider of Daenerys Targaryen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ralf the Limper</name>
+        <titles>
+            <title>Captain of the Lord Quellon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rawney</name>
+        <titles>
+            <title>Brother</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymar Royce</name>
+        <titles>
+            <title>Lord</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymond Nayland</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Raymun Redbeard</name>
+        <titles>
+            <title>King-Beyond-the-Wall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Red Lamb</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Redtusk</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rennifer Longwaters</name>
+        <titles>
+            <title>Chief Undergaoler</title>
+        </titles>
+    </character>
+    <character>
+        <name>Reznak mo Reznak</name>
+        <titles>
+            <title>Seneschal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhaenys Targaryen</name>
+        <titles>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rhogoro</name>
+        <titles>
+            <title>Khalakka</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ricasso</name>
+        <titles>
+            <title>Seneschal of Sunspear</title>
+        </titles>
+    </character>
+    <character>
+        <name>Richard Farrow</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rigney</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robb Stark</name>
+        <titles>
+            <title>King in the North</title>
+            <title>King of the Trident</title>
+            <title>Lord of Winterfell</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Flint</name>
+        <titles>
+            <title>Lord of Flint's Finger</title>
+        </titles>
+    </character>
+    <character>
+        <name>Robin Potter</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Arryn</name>
+        <titles>
+            <title>Lord of the Eyrie</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rodrik Flint</name>
+        <titles>
+            <title>Lord Commander of the Night's Watch</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roger Hogg</name>
+        <titles>
+            <title>Ser</title>
+            <title>Knight of Sow's Horn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rohanne Webber</name>
+        <titles>
+            <title>Lady of Coldmoat</title>
+            <title>Lady of Standfast</title>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolland Longthorpe</name>
+        <titles>
+            <title>Lord of Longsister</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rolly Duckfield</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roone</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Roro Uhoris</name>
+        <titles>
+            <title>Captain of Cobblecat</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rufus Leek</name>
+        <titles>
+            <title>Ser</title>
+            <title>Castellan of the Dun Fort</title>
+        </titles>
+    </character>
+    <character>
+        <name>Rugen</name>
+        <titles>
+            <title>Undergaoler</title>
+        </titles>
+    </character>
+    <character>
+        <name>Runciter</name>
+        <titles>
+            <title>Grand Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ryam</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ryon Allyrion</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Salladhor Saan</name>
+        <titles>
+            <title>Prince of the Narrow Sea</title>
+            <title>Lord of Blackwater Bay</title>
+        </titles>
+    </character>
+    <character>
+        <name>Samwell Stone</name>
+        <titles>
+            <title>Ser Master-at-arms of Runestone</title>
+        </titles>
+    </character>
+    <character>
+        <name>Selyse Florent</name>
+        <titles>
+            <title>Lady</title>
+            <title>Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sherrit</name>
+        <titles>
+            <title>King</title>
+        </titles>
+    </character>
+    <character>
+        <name>Stannis Baratheon</name>
+        <titles>
+            <title>Master of ships (formerly)</title>
+            <title>Lord of Dragonstone</title>
+            <title>Lord of Storm's End</title>
+            <title>Lord Paramount of the Stormlands</title>
+            <title>King of Westeros</title>
+        </titles>
+    </character>
+    <character>
+        <name>Styr</name>
+        <titles>
+            <title>Magnar of Thenn</title>
+        </titles>
+    </character>
+    <character>
+        <name>Sylas Flatnose</name>
+        <titles>
+            <title>Iron King</title>
+            <title>King of the Iron Islands</title>
+        </titles>
+    </character>
+    <character>
+        <name>Syrio Forel</name>
+        <titles>
+            <title>First Sword to the Sealord of Braavos</title>
+            <title>Water Dancer</title>
+        </titles>
+    </character>
+    <character>
+        <name>Temmo</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Teora Kyndall</name>
+        <titles>
+            <title>Lady of Casterly Rock</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ternesio Terys</name>
+        <titles>
+            <title>Captain</title>
+        </titles>
+    </character>
+    <character>
+        <name>Zekko</name>
+        <titles>
+            <title>Khal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theo Frey</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theobald</name>
+        <titles>
+            <title>Archmaester</title>
+            <title>Seneschal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Theomore Lannister</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Three-Tooth</name>
+        <titles>
+            <title>Steward of Ten Towers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Timett son of Timett</name>
+        <titles>
+            <title>Red Hand</title>
+        </titles>
+    </character>
+    <character>
+        <name>Timon</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tommard Heddle</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Torghen Flint</name>
+        <titles>
+            <title>The Flint</title>
+            <title>Old Flint Lord Flint</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tormund</name>
+        <titles>
+            <title>Tall-talker</title>
+            <title>Horn-blower and Breaker of Ice</title>
+            <title>Husband to Bears</title>
+            <title>the Mead-king of Ruddy Hall</title>
+            <title>Speaker to Gods and Father of Hosts</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tothmure</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tristimun</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Triston</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Triston Farwynd</name>
+        <titles>
+            <title>Lord of Sealskin Point</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tumco Lho</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Turquin</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Tytos Blackwood</name>
+        <titles>
+            <title>Lord of Raventree Hall</title>
+        </titles>
+    </character>
+    <character>
+        <name>Ulf the White</name>
+        <titles>
+            <title>Ser</title>
+            <title>Lord of Bitterbridge</title>
+        </titles>
+    </character>
+    <character>
+        <name>Unknown</name>
+        <titles>
+            <title>Lady</title>
+        </titles>
+    </character>
+    <character>
+        <name>Urras Greyiron</name>
+        <titles>
+            <title>High King of the Iron Islands</title>
+            <title>Salt King of Orkmont</title>
+        </titles>
+    </character>
+    <character>
+        <name>Urron Greyiron</name>
+        <titles>
+            <title>Iron King</title>
+            <title>King of the Iron Islands</title>
+            <title>Salt king of Orkmont</title>
+        </titles>
+    </character>
+    <character>
+        <name>Uthor of the High Tower</name>
+        <titles>
+            <title>King of the High Tower</title>
+        </titles>
+    </character>
+    <character>
+        <name>Utt</name>
+        <titles>
+            <title>Septon</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vaellyn</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vargo Hoat</name>
+        <titles>
+            <title>Lord of Harrenhal</title>
+        </titles>
+    </character>
+    <character>
+        <name>Varys</name>
+        <titles>
+            <title>Master of Whisperers</title>
+        </titles>
+    </character>
+    <character>
+        <name>Visenya Targaryen</name>
+        <titles>
+            <title>Queen</title>
+            <title>Dowager Queen</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vylarr</name>
+        <titles>
+            <title>Captain of Lannister household guard</title>
+        </titles>
+    </character>
+    <character>
+        <name>Vyman</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walgrave</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Walys Flowers</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wendamyr</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wendell Webber</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Wilbert</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Will</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willam Wells</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willamen Frey</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willifer</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Willum</name>
+        <titles>
+            <title>Ser</title>
+        </titles>
+    </character>
+    <character>
+        <name>Yormwell</name>
+        <titles>
+            <title>Maester</title>
+        </titles>
+    </character>
+    <character>
+        <name>Zarabelo</name>
+        <titles>
+            <title>Archmaester</title>
+        </titles>
+    </character>
+</characters>

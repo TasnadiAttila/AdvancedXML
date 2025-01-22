@@ -1,3 +1,5 @@
+(: Ez a lekérdezés a egy karakter nevét, nemét, az őt játszó színészt és a tvSeries mezőbe, hogy melyik évadban volt json formátumban:)
+
 xquery version "3.1";
 
 import module namespace char = "http://example.com/characters" at "../characters.xquery";

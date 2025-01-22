@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<houses>
+    <house>
+        <name>House Arryn of the Eyrie</name>
+        <founded>Coming of the Andals</founded>
+        <seats>
+            <seat>The Eyrie (summer) Gates of the Moon (winter)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Baelish of Harrenhal</name>
+        <founded>299 AC</founded>
+        <seats>
+            <seat>Harrenhal</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Baratheon of Dragonstone</name>
+        <founded>284 AC</founded>
+        <seats>
+            <seat>Dragonstone</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Baratheon of King's Landing</name>
+        <founded>283 AC</founded>
+        <seats>
+            <seat>King's Landing</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Baratheon of Storm's End</name>
+        <founded>1 AC</founded>
+        <seats>
+            <seat>Storm's End Dragonstone (House Baratheon of Dragonstone)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Blackfyre of King's Landing</name>
+        <founded>184 AC</founded>
+        <seats/>
+    </house>
+    <house>
+        <name>House Blackwood of Raventree Hall</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Raventree Hall</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Bolton of the Dreadfort</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>The Dreadfort</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Bracken of Stone Hedge</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Stone Hedge</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Casterly of Casterly Rock</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Casterly Rock</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Celtigar of Claw Isle</name>
+        <founded>prior to ~112 years before the Conquest</founded>
+        <seats>
+            <seat>Claw Isle</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Cuy of Sunhouse</name>
+        <founded>Andal Invasion</founded>
+        <seats>
+            <seat>Sunhouse</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Darklyn of Duskendale</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>The Dun Fort</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Dondarrion of Blackhaven</name>
+        <founded>Before 1 AC</founded>
+        <seats>
+            <seat>Blackhaven</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Durrandon</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Storm's End</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Foote of Nightsong</name>
+        <founded>299 AC</founded>
+        <seats>
+            <seat>Nightsong</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Fossoway of New Barrel</name>
+        <founded>209 AC</founded>
+        <seats>
+            <seat>New Barrel</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Frey of Riverrun</name>
+        <founded>299 AC</founded>
+        <seats>
+            <seat>Riverrun</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Frey of the Crossing</name>
+        <founded>600 years ago</founded>
+        <seats>
+            <seat>The Twins</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Gardener of Highgarden</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Highgarden</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Greyjoy of Pyke</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Pyke</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Hightower of the Hightower</name>
+        <founded>Age of Dawn</founded>
+        <seats>
+            <seat>The Hightower Oldtown</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Karstark of Karhold</name>
+        <founded>One thousand years ago</founded>
+        <seats>
+            <seat>Karhold</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Lannister of Casterly Rock</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Casterly Rock</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Lannister of Darry</name>
+        <founded>299 AC</founded>
+        <seats>
+            <seat>Darry</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Lefford of the Golden Tooth</name>
+        <founded>Andal invasion</founded>
+        <seats>
+            <seat>Golden Tooth</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Lothston of Harrenhal</name>
+        <founded>151 AC (House Lothston of Harrenhal)</founded>
+        <seats>
+            <seat>Harrenhal</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Massey of Stonedance</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Stonedance</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Nymeros Martell of Sunspear</name>
+        <founded>1000 years ago</founded>
+        <seats>
+            <seat>Old Palace within Sunspear</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Qoherys of Harrenhal</name>
+        <founded>ca. 1 AC</founded>
+        <seats>
+            <seat>Harrenhal</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Redbeard</name>
+        <founded>300 AC</founded>
+        <seats/>
+    </house>
+    <house>
+        <name>House Royce of Runestone</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Runestone</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Santagar of Spottswood</name>
+        <founded>Andal Invasion</founded>
+        <seats>
+            <seat>Spottswood</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Seaworth of Cape Wrath</name>
+        <founded>284 AC</founded>
+        <seats/>
+    </house>
+    <house>
+        <name>House Slynt of Harrenhal</name>
+        <founded>298 AC</founded>
+        <seats>
+            <seat>None (formerly Harrenhal)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Stark of Winterfell</name>
+        <founded>Age of Heroes</founded>
+        <seats>
+            <seat>Scattered (formerly Winterfell)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Targaryen of King's Landing</name>
+        <founded>House Targaryen: &gt;114 BCHouse Targaryen of King's Landing:1 AC</founded>
+        <seats>
+            <seat>Red Keep (formerly) Summerhall (formerly)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Thenn</name>
+        <founded>300 AC</founded>
+        <seats/>
+    </house>
+    <house>
+        <name>House Tyrell of Brightwater Keep</name>
+        <founded>299 AC</founded>
+        <seats>
+            <seat>Brightwater Keep (disputed by House Florent)</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Vaith of the Red Dunes</name>
+        <founded>Andal Invasion</founded>
+        <seats>
+            <seat>Vaith</seat>
+        </seats>
+    </house>
+    <house>
+        <name>House Velaryon of Driftmark</name>
+        <founded>prior to 114BC</founded>
+        <seats>
+            <seat>High Tide or Driftmark</seat>
+        </seats>
+    </house>
+</houses>

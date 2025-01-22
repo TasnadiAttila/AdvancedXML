@@ -1,0 +1,52 @@
+{
+    "$schema": "https://json-schema.org/draft-04/schema#",
+    "type": "object",
+    "properties": {
+        "characters": {"$ref": "#/definitions/characters_type"}
+    },
+    "required": ["characters"],
+    "additionalProperties": false,
+    "definitions": {
+        "playedBy_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "array",
+                "minItems": 0,
+                "items": {
+                    "type": "string",
+                    "default": ""
+                },
+                "additionalItems": false
+            },
+            "additionalItems": false
+        },
+        "characters_type": {
+            "type": "array",
+            "minItems": 0,
+            "items": {
+                "type": "object",
+                "properties": {
+                    "gender": {
+                        "type": "string",
+                        "default": ""
+                    },
+                    "playedBy": {"$ref": "#/definitions/playedBy_type"},
+                    "name": {
+                        "type": "string",
+                        "default": ""
+                    },
+                    "tvSeries": {"$ref": "#/definitions/playedBy_type"}
+                },
+                "required": [
+                    "gender",
+                    "playedBy",
+                    "name",
+                    "tvSeries"
+                ],
+                "additionalProperties": false
+            },
+            "additionalItems": false
+        }
+    }
+}

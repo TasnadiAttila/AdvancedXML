@@ -1,0 +1,1192 @@
+{
+    "houses": [
+        {
+            "name": "House Frey of the Crossing",
+            "swornMembersCount": 123
+        },
+        {
+            "name": "House Targaryen of King's Landing",
+            "swornMembersCount": 101
+        },
+        {
+            "name": "House Stark of Winterfell",
+            "swornMembersCount": 88
+        },
+        {
+            "name": "House Lannister of Casterly Rock",
+            "swornMembersCount": 79
+        },
+        {
+            "name": "House Tyrell of Highgarden",
+            "swornMembersCount": 44
+        },
+        {
+            "name": "House Greyjoy of Pyke",
+            "swornMembersCount": 42
+        },
+        {
+            "name": "House Nymeros Martell of Sunspear",
+            "swornMembersCount": 36
+        },
+        {
+            "name": "House Baratheon of Dragonstone",
+            "swornMembersCount": 27
+        },
+        {
+            "name": "House Arryn of the Eyrie",
+            "swornMembersCount": 24
+        },
+        {
+            "name": "House Osgrey of Standfast",
+            "swornMembersCount": 22
+        },
+        {
+            "name": "House Baratheon of Storm's End",
+            "swornMembersCount": 19
+        },
+        {
+            "name": "House Hightower of the Hightower",
+            "swornMembersCount": 19
+        },
+        {
+            "name": "House Tully of Riverrun",
+            "swornMembersCount": 17
+        },
+        {
+            "name": "House Bolton of the Dreadfort",
+            "swornMembersCount": 15
+        },
+        {
+            "name": "House Velaryon of Driftmark",
+            "swornMembersCount": 15
+        },
+        {
+            "name": "House Botley of Lordsport",
+            "swornMembersCount": 14
+        },
+        {
+            "name": "House Bracken of Stone Hedge",
+            "swornMembersCount": 14
+        },
+        {
+            "name": "House Florent of Brightwater Keep",
+            "swornMembersCount": 14
+        },
+        {
+            "name": "House Whent of Harrenhal",
+            "swornMembersCount": 13
+        },
+        {
+            "name": "House Blackfyre of King's Landing",
+            "swornMembersCount": 12
+        },
+        {
+            "name": "House Crakehall of Crakehall",
+            "swornMembersCount": 12
+        },
+        {
+            "name": "House Royce of Runestone",
+            "swornMembersCount": 12
+        },
+        {
+            "name": "House Westerling of the Crag",
+            "swornMembersCount": 12
+        },
+        {
+            "name": "House Clegane",
+            "swornMembersCount": 11
+        },
+        {
+            "name": "House Karstark of Karhold",
+            "swornMembersCount": 11
+        },
+        {
+            "name": "House Redwyne of the Arbor",
+            "swornMembersCount": 11
+        },
+        {
+            "name": "House Brax of Hornvale",
+            "swornMembersCount": 10
+        },
+        {
+            "name": "House Manderly of White Harbor",
+            "swornMembersCount": 10
+        },
+        {
+            "name": "House Swann of Stonehelm",
+            "swornMembersCount": 10
+        },
+        {
+            "name": "House Waynwood of Ironoaks",
+            "swornMembersCount": 10
+        },
+        {
+            "name": "House Wylde of Rain House",
+            "swornMembersCount": 10
+        },
+        {
+            "name": "House Beesbury of Honeyholt",
+            "swornMembersCount": 9
+        },
+        {
+            "name": "House Seaworth of Cape Wrath",
+            "swornMembersCount": 9
+        },
+        {
+            "name": "House Swyft of Cornfield",
+            "swornMembersCount": 9
+        },
+        {
+            "name": "House Baelish of the Fingers",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Baratheon of King's Landing",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Blackwood of Raventree Hall",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Corbray of Heart's Home",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Drumm of Old Wyk",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Mormont of Bear Island",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Plumm",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Ryswell of the Rills",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Tarth of Evenfall Hall",
+            "swornMembersCount": 8
+        },
+        {
+            "name": "House Dayne of Starfall",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Estermont of Greenstone",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Harlaw of Harlaw",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Paege",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Redfort of Redfort",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Royce of the Gates of the Moon",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Tallhart of Torrhen's Square",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Webber of Coldmoat",
+            "swornMembersCount": 7
+        },
+        {
+            "name": "House Caswell of Bitterbridge",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Crane of Red Lake",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Darry of Darry",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Frey of Riverrun",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Glover of Deepwood Motte",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Goodbrother of Hammerhorn",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Haigh",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Lothston of Harrenhal",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Mallister of Seagard",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Norcross",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Oakheart of Old Oak",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Stokeworth of Stokeworth",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Tarly of Horn Hill",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Umber of the Last Hearth",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Yronwood of Yronwood",
+            "swornMembersCount": 6
+        },
+        {
+            "name": "House Ambrose",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Baelish of Harrenhal",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Butterwell",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Caron of Nightsong",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Connington of Griffin's Roost",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Crabb",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Fossoway of Cider Hall",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Hollard",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Hornwood of Hornwood",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Hunter of Longbow Hall",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Ironmaker",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Lefford of the Golden Tooth",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Manwoody of Kingsgrave",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Marbrand of Ashemark",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Vance of Atranta",
+            "swornMembersCount": 5
+        },
+        {
+            "name": "House Allyrion of Godsgrace",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Ashford of Ashford",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Cassel",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Darklyn of Duskendale",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Farring",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Farwynd of the Lonely Light",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Fossoway of New Barrel",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Goodbrook",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Kettleblack",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Locke of Oldcastle",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Morrigen of Crow's Nest",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Penrose of Parchments",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Qorgyle of Sandstone",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Reed of Greywater Watch",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Slynt of Harrenhal",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Smallwood of Acorn Hall",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Strong of Harrenhal",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Vance of Wayfarer's Rest",
+            "swornMembersCount": 4
+        },
+        {
+            "name": "House Blackmont of Blackmont",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Bulwer of Blackcrown",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Cerwyn of Cerwyn",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Clifton",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Costayne of Three Towers",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Dondarrion of Blackhaven",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Dustin of Barrowton",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Farman of Faircastle",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Grafton of Gulltown",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Grandison of Grandview",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Hardyng",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Hewett of Oakenshield",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Kenning of Harlaw",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Kenning of Kayce",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Merryweather of Longtable",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Mooton of Maidenpool",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Norrey",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Payne",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Peake of Starpike",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Piper of Pinkmaiden",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Rowan of Goldengrove",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Santagar of Spottswood",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Selmy of Harvest Hall",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Serry of Southshield",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Sharp",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Spicer of Castamere",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Stackspear",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Staunton of Rook's Rest",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Stout of Goldgrass",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Tarbeck of Tarbeck Hall",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Uller of Hellholt",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Vypren",
+            "swornMembersCount": 3
+        },
+        {
+            "name": "House Banefort of Banefort",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Belmore of Strongsong",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Blacktyde of Blacktyde",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Brune of Brownhollow",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Buckler of Bronzegate",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Byrch",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Charlton",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Codd",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Cuy of Sunhouse",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Dalt of Lemonwood",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Durrandon",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Errol of Haystack Hall",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Fell of Felwood",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Flint  of the mountains",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Flint of Widow's Watch",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Greenfield of Greenfield",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Heddle",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Hetherspoon",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Humble",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Hunt",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Inchfield",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Jast",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Jordayne of the Tor",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Lannister of Darry",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Lonmouth",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Lorch",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Lydden of Deep Den",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Lynderly of the Snakewood",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Massey of Stonedance",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Meadows of Grassy Vale",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Mertyns of Mistwood",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Moreland",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Mullendore of Uplands",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Nayland of Hag's Mire",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Poole",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Prester of Feastfires",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Reyne of Castamere",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Rosby of Rosby",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Ryger of Willow Wood",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Rykker of Duskendale",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Shepherd",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Sparr of Great Wyk",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Stonehouse of Old Wyk",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Sunglass of Sweetport Sound",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Thenn",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Thorne",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Tollett of the Grey Glen",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Toyne",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Tyrell of Brightwater Keep",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Uffering",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Vaith of the Red Dunes",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Willum",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Wull",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Wynch of Iron Holt",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Wythers",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Yew",
+            "swornMembersCount": 2
+        },
+        {
+            "name": "House Ball",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Bar Emmon of Sharp Point",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Bettley",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Blackbar of Bandallon",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Blanetree",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Blount",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Boggs of Crackclaw Point",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Bolling",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Borrell of Sweetsister",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Broom",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Brune of the Dyre Den",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Buckwell of the Antlers",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Bushy",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Bywater",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Cafferen of Fawnton",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Casterly of Casterly Rock",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Celtigar of Claw Isle",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Chelsted",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Chester of Greenshield",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Chyttering",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Cockshaw",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Coldwater of Coldwater Burn",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Cole",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Condon",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Conklyn",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Cox of Saltpans",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Dayne of High Hermitage",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Deddings",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Drinkwater",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Egen",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Erenford",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Estren of Wyndhall",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Farwynd of Sealskin Point",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Flint of Flint's Finger",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Foote",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Foote of Nightsong",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Fowler of Skyreach",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Gardener of Highgarden",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Gargalen of Salt Shore",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Gaunt",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Goodbrother of Shatterstone",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Gower",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Graceford of Holyhall",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Grell",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Grimm of Greyshield",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Harclay",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hardy",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Harlaw of Grey Garden",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Harlaw of Harlaw Hall",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Harlaw of Harridan Hill",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Harlaw of the Tower of Glimmering",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hastwyck",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hasty",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hawick of Saltpans",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hayford of Hayford",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hoare of Orkmont",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Hogg of Sow's Horn",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Horpe",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Kyndall",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Lannister of Lannisport",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Leygood",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Liddle",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Longthorpe of Longsister",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Longwaters",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Lychester",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Mallery",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Merlyn of Pebbleton",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Mollen",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Moore",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Mudd of Oldstones",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Musgood",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Myre of Harlaw",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Norridge",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Peasebury of Poddingfield",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Peckledon",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Qoherys of Harrenhal",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Rambton",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Redbeard",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Rhysling",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Risley",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Roote of Lord Harroway's Town",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Ruttiger",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Saltcliffe of Saltcliffe",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Sarsfield of Sarsfield",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Shett of Gull Tower",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Slate of Blackpool",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Staedmon of Broad Arch",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Stonetree of Harlaw",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Strickland",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Sunderland of the Three Sisters",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Tawney of Orkmont",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Templeton",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Toland of Ghost Hill",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Torrent of Littlesister",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Trant of Gallowsgrey",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Turnberry",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Varner",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Vikary",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Volmark",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Vyrwel of Darkdell",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Wagstaff",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Waxley of Wickenden",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Wayn",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Weaver",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Wells",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Wells",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Wode",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Woods",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Woolfield",
+            "swornMembersCount": 1
+        },
+        {
+            "name": "House Yarwyck",
+            "swornMembersCount": 1
+        }
+    ]
+}

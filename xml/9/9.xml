@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+    <character>
+        <name>Aegon I</name>
+        <mother>Velaena Velaryon</mother>
+        <father>Aerion Targaryen</father>
+    </character>
+    <character>
+        <name>Aegon II</name>
+        <mother>Alicent Hightower</mother>
+        <father>Viserys I</father>
+    </character>
+    <character>
+        <name>Aegon III</name>
+        <mother>Rhaenyra Targaryen</mother>
+        <father>Daemon Targaryen</father>
+    </character>
+    <character>
+        <name>Aegon V</name>
+        <mother>Dyanna Dayne</mother>
+        <father>Maekar I</father>
+    </character>
+    <character>
+        <name>Aenys I</name>
+        <mother>Rhaenys Targaryen</mother>
+        <father>Aegon I</father>
+    </character>
+    <character>
+        <name>Aerys I</name>
+        <mother>Mariah Martell</mother>
+        <father>Daeron II</father>
+    </character>
+    <character>
+        <name>Aerys II</name>
+        <mother>Shaera Targaryen</mother>
+        <father>Jaehaerys II</father>
+    </character>
+    <character>
+        <name>Alysanne Targaryen</name>
+        <mother>Alyssa Velaryon</mother>
+        <father>Aenys I</father>
+    </character>
+    <character>
+        <name>Alyx Frey</name>
+        <mother>Betharios</mother>
+        <father>Symond Frey</father>
+    </character>
+    <character>
+        <name>Arwood Frey</name>
+        <mother>Bellena Hawick</mother>
+        <father>Hosteen Frey</father>
+    </character>
+    <character>
+        <name>Baelor I</name>
+        <mother>Daenaera Velaryon</mother>
+        <father>Aegon III</father>
+    </character>
+    <character>
+        <name>Daena Targaryen</name>
+        <mother>Daenaera Velaryon</mother>
+        <father>Aegon III</father>
+    </character>
+    <character>
+        <name>Daeron I</name>
+        <mother>Daenaera Velaryon</mother>
+        <father>Aegon III</father>
+    </character>
+    <character>
+        <name>Daeron II</name>
+        <mother>Naerys Targaryen</mother>
+        <father>Aegon IV</father>
+    </character>
+    <character>
+        <name>Jaehaerys I</name>
+        <mother>Alyssa Velaryon</mother>
+        <father>Aenys I</father>
+    </character>
+    <character>
+        <name>Jaehaerys II</name>
+        <mother>Betha Blackwood</mother>
+        <father>Aegon V</father>
+    </character>
+    <character>
+        <name>Joffrey Baratheon</name>
+        <mother>Cersei Lannister</mother>
+        <father>Robert I Baratheon</father>
+    </character>
+    <character>
+        <name>Maegor I</name>
+        <mother>Visenya Targaryen</mother>
+        <father>Aegon I</father>
+    </character>
+    <character>
+        <name>Maekar I</name>
+        <mother>Mariah Martell</mother>
+        <father>Daeron II</father>
+    </character>
+    <character>
+        <name>Robert I Baratheon</name>
+        <mother>Cassana Estermont</mother>
+        <father>Steffon Baratheon</father>
+    </character>
+    <character>
+        <name>Tommen Baratheon</name>
+        <mother>Cersei Lannister</mother>
+        <father>Robert I Baratheon</father>
+    </character>
+    <character>
+        <name>Viserys I</name>
+        <mother>Alyssa Targaryen</mother>
+        <father>Baelon Targaryen</father>
+    </character>
+    <character>
+        <name>Viserys II</name>
+        <mother>Rhaenyra Targaryen</mother>
+        <father>Daemon Targaryen</father>
+    </character>
+    <character>
+        <name>Robb Stark</name>
+        <mother>Catelyn Stark</mother>
+        <father>Eddard Stark</father>
+    </character>
+    <character>
+        <name>Stannis Baratheon</name>
+        <mother>Cassana Estermont</mother>
+        <father>Steffon Baratheon</father>
+    </character>
+    <character>
+        <name>Stannis Seaworth</name>
+        <mother>Marya Seaworth</mother>
+        <father>Davos Seaworth</father>
+    </character>
+</characters>

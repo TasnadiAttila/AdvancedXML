@@ -1,3 +1,5 @@
+(: Ez a lekérdezés a házak nevét, régióját, és mondásaikat kéri le xml formátumban :)
+
 xquery version "3.1";
 
 import schema default element namespace "" at "1.xsd";
@@ -16,3 +18,4 @@ let $result :=
   }
 </houses>
 return $result
+

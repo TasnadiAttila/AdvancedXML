@@ -1,3 +1,5 @@
+(: Ez a lekérdezés megadja, hogy egy adott kúltúrából hány karakter van :)
+
 xquery version "3.1";
 
 import schema default element namespace "" at "3.xsd";
